@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.testairplaneencyclopedia.BellActivity"
+
+
+    >
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/bell"
+        android:layout_centerInParent="true"
+        android:alpha="0.08"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/CivilBell"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Civilian"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:gravity="left"
+                android:textSize="18dp"
+                android:textStyle="italic"
+                android:textColor="#ff231b"
+                android:fontFamily="sans-serif-condensed"
+                />
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.4dp"
+                android:background="#77000000"
+                android:layout_marginTop="5dp"
+
+                />
+
+            <Button
+                android:id="@+id/bell47"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="47"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/bell47j"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="47-J"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/bell204"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="204"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/bell206"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="206"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/bell212"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="212"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/bell214"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="214"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/bell214st"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="214-ST"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/bell222"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="222"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/bell407"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="407"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/bell412"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="412"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/bell427"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="427"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/bell429"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="429"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/bell430"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="430"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/bell525"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="525"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+
+            <TextView
+                android:id="@+id/MilitaryBell"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Military"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:gravity="left"
+                android:textSize="18dp"
+                android:textStyle="italic"
+                android:textColor="#ff231b"
+                android:fontFamily="sans-serif-condensed"
+                />
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.4dp"
+                android:background="#77000000"
+                android:layout_marginTop="5dp"
+
+                />
+
+            <Button
+                android:id="@+id/bell_h12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="H-12"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/bell_h13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="H-13"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/bell_xh15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="XH-15"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/bell_hsl"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HSL"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/bell_uh1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="UH-1"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+
+            <Button
+                android:id="@+id/bell207"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="207"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+
+            <Button
+                android:id="@+id/bell_ah1cobra"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AH-1 (Cobra)"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/bell_ah1supercobra"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AH-1 (Supercobra)"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

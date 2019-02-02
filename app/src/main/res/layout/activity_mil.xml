@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.testairplaneencyclopedia.MilActivity">
+
+    <ImageView
+        android:id="@+id/millogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/millogo"
+        android:layout_centerInParent="true"
+        android:alpha="0.11"
+
+
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/mil1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mil-1"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/mil2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mil-2"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/mil4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mil-4"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/mil6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mil-6"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/mil8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mil-8"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/mil10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mil-10"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/mil14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mil-14"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/mil17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mil-17"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/mil24"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mil-24"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/mil26"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mil-26"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/mil28"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mil-28"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</RelativeLayout>

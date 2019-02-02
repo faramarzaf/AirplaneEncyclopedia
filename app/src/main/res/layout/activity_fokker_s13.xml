@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.testairplaneencyclopedia.FokkerS13Activity"
+    android:background="@drawable/background_content"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/fokker_s13_1"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_marginRight="0dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="10dp"
+                app:srcCompat="@drawable/fokker_s13_1"
+                android:scaleType="fitXY"
+                />
+
+            <ImageView
+                android:id="@+id/fokker_s13_2"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_marginTop="-250dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:alpha="-5"
+                app:srcCompat="@drawable/fokker_s13_2"
+                android:scaleType="fitXY"
+                />
+
+            <TextView
+                android:id="@+id/tv_generalExplanation"
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="6dp"
+                android:layout_marginBottom="2dp"
+                android:background="@drawable/background_styles_general_text"
+                android:fontFamily="monospace"
+                android:gravity="center"
+                android:text="General explanation"
+                android:textColor="#ffffff"
+                android:textSize="15.2dp"
+                android:textStyle="italic" />
+
+            <TextView
+                android:id="@+id/textView30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="The Fokker S.13 Universal Trainer is a dual engine propeller aircraft for training purposes designed and manufactured by the former Dutch aircraft manufacturer Fokker."
+                android:layout_margin="10dp"
+                android:textSize="18dp"
+                android:textColor="#000000"
+                android:fontFamily="serif"
+                android:textIsSelectable="true"
+                android:background="@drawable/background_styles_text"
+                android:padding="5dp"
+
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="25dp"
+                android:orientation="vertical"
+
+                >
+
+                <TextView
+                    android:id="@+id/tv_general_characteristics"
+                    android:layout_width="220dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="34dp"
+                    android:background="@drawable/background_styles_general_text"
+                    android:fontFamily="monospace"
+                    android:gravity="center"
+                    android:text="General characteristics"
+                    android:textColor="#ffffff"
+                    android:textSize="15.2dp"
+                    android:textStyle="italic" />
+                <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/layout_table"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <TableRow
+                        android:id="@+id/tabla_cabecera"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                    </TableRow>
+
+                    <TableLayout
+                        android:id="@+id/tabla_cuerpo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        >
+
+                        <TableRow
+                            android:id="@+id/tableRow1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+
+                            >
+
+                            <TextView
+                                android:id="@+id/textView1"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/style_table1"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:text="Roll"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#000"
+
+
+                                >
+
+                            </TextView>
+
+                            <TextView
+                                android:id="@+id/textView2"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/style_table1"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:text="Training aircraft"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#000"
+
+                                >
+
+                            </TextView>
+
+
+                        </TableRow>
+
+
+                        <TableRow
+                            android:id="@+id/tableRow3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center">
+
+                            <TextView
+                                android:id="@+id/textView7"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/style_table2"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:text="Number built"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#000">
+
+                            </TextView>
+
+                            <TextView
+                                android:id="@+id/textView8"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/style_table2"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:text="1"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#000">
+
+                            </TextView>
+
+
+                        </TableRow>
+
+                        <TableRow
+                            android:id="@+id/tableRow5"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center">
+
+
+                        </TableRow>
+
+
+                        <TableRow
+                            android:id="@+id/tableRow8"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center">
+
+                            <TextView
+                                android:id="@+id/textView16"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/style_table1"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:text="Length"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#000"
+
+                                >
+
+                            </TextView>
+
+                            <TextView
+                                android:id="@+id/textView17"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/style_table1"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:text="13.6 m"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#000"
+
+                                >
+
+                            </TextView>
+
+                        </TableRow>
+
+                        <TableRow
+                            android:id="@+id/tableRow9"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center">
+
+                            <TextView
+                                android:id="@+id/textView18"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/style_table2"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:text="Wing span"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#000">
+
+                            </TextView>
+
+                            <TextView
+                                android:id="@+id/textView19"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/style_table2"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:text="19.2 m"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#000"
+
+
+                                >
+
+                            </TextView>
+
+                        </TableRow>
+
+                        <TableRow
+                            android:id="@+id/tableRow10"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center">
+
+                            <TextView
+                                android:id="@+id/textView20"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/style_table1"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:text="Height"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#000"
+
+                                >
+
+                            </TextView>
+
+                            <TextView
+                                android:id="@+id/textView21"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/style_table1"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:text="5.5 m"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#000"
+
+                                >
+
+                            </TextView>
+
+                        </TableRow>
+
+                        <TableRow
+                            android:id="@+id/tableRow11"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center">
+
+                            <TextView
+                                android:id="@+id/textView22"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/style_table2"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:text="Empty weight"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#000"
+
+                                >
+
+                            </TextView>
+
+                            <TextView
+                                android:id="@+id/textView23"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/style_table2"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:text="4,185 kg"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#000"
+
+                                >
+
+                            </TextView>
+
+                        </TableRow>
+
+
+                        <TableRow
+                            android:id="@+id/tableRow12"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center">
+
+                            <TextView
+                                android:id="@+id/textView24"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/style_table1"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:text="Max speed"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#000">
+
+                            </TextView>
+
+                            <TextView
+                                android:id="@+id/textView25"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/style_table1"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:text="335 km/h"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#000"
+
+                                >
+
+                            </TextView>
+
+                        </TableRow>
+
+
+                        <TableRow
+                            android:id="@+id/tableRow13"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center">
+
+
+                        </TableRow>
+                    </TableLayout>
+                </TableLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

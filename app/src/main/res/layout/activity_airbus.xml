@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.testairplaneencyclopedia.AirbusActivity"
+
+    >
+
+
+    <ImageView
+        android:id="@+id/airbuslogo"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        app:srcCompat="@drawable/airbuslogo"
+        android:layout_centerInParent="true"
+        android:alpha="0.11"
+
+
+        />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp"
+            >
+
+
+            <Button
+                android:id="@+id/A300"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A 300"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/A310"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A 310"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/A318"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A 318"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/A319"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A 319"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+
+
+                />
+
+            <Button
+                android:id="@+id/A320"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A 320"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+                />
+
+            <Button
+                android:id="@+id/A321"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A 321"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/A330"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A 330"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/A340"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A 340"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/A350"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A 350"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/A380"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A 380"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

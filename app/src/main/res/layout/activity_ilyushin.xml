@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.testairplaneencyclopedia.IlyushinActivity"
+
+    >
+
+    
+
+    <ImageView
+        android:id="@+id/ilyushinlogo"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        app:srcCompat="@drawable/ilyushinlogo"
+        android:layout_centerInParent="true"
+        android:alpha="0.11"
+
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/AttackIlyushin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Attack"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:gravity="left"
+                android:textSize="18dp"
+                android:textStyle="italic"
+                android:textColor="#ff231b"
+                android:fontFamily="sans-serif-condensed"
+                />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.4dp"
+                android:background="#77000000"
+                android:layout_marginTop="5dp"
+
+                />
+
+            <Button
+                android:id="@+id/Il2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 2"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+                />
+
+
+            <Button
+                android:id="@+id/Il10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 10"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 16"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il40"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 40"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il102"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 102"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+                />
+
+            <TextView
+                android:id="@+id/BomberIlyushin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bomber"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:gravity="left"
+                android:textSize="18dp"
+                android:textStyle="italic"
+                android:textColor="#ff231b"
+                android:fontFamily="sans-serif-condensed"
+                />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.4dp"
+                android:background="#77000000"
+                android:layout_marginTop="5dp"
+
+                />
+
+            <Button
+                android:id="@+id/DB3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="DB 3"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+
+            <Button
+                android:id="@+id/Il6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 6"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 22"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il28"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 28"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il30"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 30"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il54"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 54"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+
+
+            <TextView
+                android:id="@+id/TransportIlyushin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Transport"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:gravity="left"
+                android:textSize="18dp"
+                android:textStyle="italic"
+                android:textColor="#ff231b"
+                android:fontFamily="sans-serif-condensed"
+                />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.4dp"
+                android:background="#77000000"
+                android:layout_marginTop="5dp"
+
+                />
+
+
+            <Button
+                android:id="@+id/Il12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 12"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il32"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 32"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+
+
+            <Button
+                android:id="@+id/Il76"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 76"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il78"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 78"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il80"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 80"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il112"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 112"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+
+
+            <TextView
+                android:id="@+id/PassengerIlyushin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Passenger"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:gravity="left"
+                android:textSize="18dp"
+                android:textStyle="italic"
+                android:textColor="#ff231b"
+                android:fontFamily="sans-serif-condensed"
+                />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.4dp"
+                android:background="#77000000"
+                android:layout_marginTop="5dp"
+                />
+
+
+
+            <Button
+                android:id="@+id/Il14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 14"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 18"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il181946"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 18(1946)"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il62"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 62"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il86"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 86"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+                />
+
+            <Button
+                android:id="@+id/Il96"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 96"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Il114"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 114"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+
+            <Button
+                android:id="@+id/Il103"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Il 103"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
+

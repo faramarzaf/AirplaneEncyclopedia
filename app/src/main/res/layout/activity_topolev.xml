@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.testairplaneencyclopedia.TopolevActivity">
+
+    <ImageView
+        android:id="@+id/topolevlogo"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        app:srcCompat="@drawable/tupolevlogo"
+        android:layout_centerInParent="true"
+        android:alpha=".13"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+            >
+
+
+            <TextView
+                android:id="@+id/CivilianIlyushin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Civilian"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:gravity="left"
+                android:textSize="18dp"
+                android:textStyle="italic"
+                android:textColor="#ff231b"
+                android:fontFamily="sans-serif-condensed"
+                />
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.4dp"
+                android:background="#77000000"
+                android:layout_marginTop="5dp"
+
+                />
+
+            <Button
+                android:id="@+id/Tu104"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 104"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/Tu114"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 114"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/Tu116"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 116"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/Tu124"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 124"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/Tu134"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 134"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/Tu144"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 144"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/Tu154"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 154"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+
+
+            <Button
+                android:id="@+id/Tu214"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 214"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Tu334"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 334"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+
+
+
+
+            <TextView
+                android:id="@+id/MilitaryIlyushin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Military"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:gravity="left"
+                android:textSize="18dp"
+                android:textStyle="italic"
+                android:textColor="#ff231b"
+                android:fontFamily="sans-serif-condensed"
+                />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.4dp"
+                android:background="#77000000"
+                android:layout_marginTop="5dp"
+                />
+
+            <Button
+                android:id="@+id/Tu2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 2"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/Tu4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 4"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/Tu14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 14"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/Tu16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 16"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/Tu20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 20"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/Tu22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 22"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/Tu22M"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 22M"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/Tu128"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 128"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/Tu126"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 126"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/Tu142"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 142"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/Tu160"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 160"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+            <TextView
+                android:id="@+id/ExperimentalIlyushin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Experimental"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:gravity="left"
+                android:textSize="18dp"
+                android:textStyle="italic"
+                android:textColor="#ff231b"
+                android:fontFamily="sans-serif-condensed"
+                />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.4dp"
+                android:background="#77000000"
+                android:layout_marginTop="5dp"
+                />
+
+
+
+
+            <Button
+                android:id="@+id/Tu1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 1"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+
+
+            <Button
+                android:id="@+id/Tu8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 8"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/Tu70"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 70"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/Tu75"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 75"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/Tu80"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu80"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+
+            <Button
+                android:id="@+id/Tu85"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 85"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center" />
+
+
+
+            <Button
+                android:id="@+id/Tu95LAL"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 95LAL"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"  />
+
+
+            <Button
+                android:id="@+id/Tu110"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 110"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+
+            <Button
+                android:id="@+id/Tu155"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tu 155"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

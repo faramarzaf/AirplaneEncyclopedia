@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/help_contact_us_bg"
+    tools:context="com.google.testairplaneencyclopedia.ContactUsActivity"
+
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+
+            >
+
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="10dp"
+                android:gravity="left"
+                android:justificationMode="inter_word"
+                android:padding="2dp"
+                android:text="I hope this app can satisfy aviation industry enthusiasts.The purpose of this app is to provide a brief and useful introduction to some kind of aircraft.\nThe information is categorized and simply expressed by photos.\n\nI am looking forward to receiving any criticism or suggestion from you.\n\nFor any questions about the program, contact us with our email."
+                android:textColor="#e7e7e7"
+                android:textSize="20dp"
+                android:textStyle="italic" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:orientation="horizontal"
+                android:gravity="center"
+                >
+
+                <TextView
+                    android:id="@+id/tv_gmail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="tictac_dev@yahoo.com"
+                    android:textColor="#00c4ff"
+                    android:textIsSelectable="true"
+                    android:textSize="17dp" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="292dp"
+                android:layout_height="0.4dp"
+                android:layout_gravity="center"
+                android:background="#d4d4d4"
+
+                />
+
+            <TextView
+                android:id="@+id/tv_madeBy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:text="tic-tac developments ©"
+                android:textColor="#d4d4d4"
+                android:textSize="14.5dp"
+                android:textStyle="italic"
+
+                />
+
+
+            <ImageView
+                android:id="@+id/ic_tictacdevelopments"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="6dp"
+                android:layout_marginBottom="11dp"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/ic_tictacdevelopments5"
+
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

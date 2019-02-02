@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.testairplaneencyclopedia.BoeingActivity"
+
+    >
+
+    <ImageView
+        android:id="@+id/boeinglogo"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        app:srcCompat="@drawable/boeinglogo"
+        android:layout_centerInParent="true"
+        android:alpha="0.11"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp"
+            >
+
+
+            <Button
+                android:id="@+id/Boeing707"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="707"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+                />
+
+            <Button
+                android:id="@+id/Boeing717200"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="717-200"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+                />
+
+            <Button
+                android:id="@+id/Boeing720"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="720"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+                />
+
+            <Button
+                android:id="@+id/Boeing727"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="727"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+
+                />
+
+            <Button
+                android:id="@+id/Boeing737Original"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="737-Orginal"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+                />
+
+            <Button
+                android:id="@+id/Boeing737Classic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="737-Classic"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Boeing737NG"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="737-NG"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+                />
+
+            <Button
+                android:id="@+id/Boeing737Max"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="737-Max"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Boeing747"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="747"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+                />
+
+            <Button
+                android:id="@+id/Boeing7478"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="747-8"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+                />
+
+            <Button
+                android:id="@+id/Boeing757"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="757"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+                />
+
+            <Button
+                android:id="@+id/Boeing767"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="767"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+                />
+
+            <Button
+                android:id="@+id/Boeing777"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="777"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+
+                />
+
+            <Button
+                android:id="@+id/Boeing777X"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="777-X"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+
+            <Button
+                android:id="@+id/Boeing787"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="787"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

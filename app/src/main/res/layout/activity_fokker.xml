@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.testairplaneencyclopedia.FokkerActivity">
+
+    <ImageView
+        android:id="@+id/fokkerlogo"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        app:srcCompat="@drawable/fokkerlogo"
+        android:layout_centerInParent="true"
+        android:alpha=".07"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp"
+        >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+
+                >
+
+                <Button
+                    android:id="@+id/btn_fokker25"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="F 25"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:background="#00ffffff"
+                    style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                    android:fontFamily="sans-serif-condensed"
+                    android:layout_gravity="center"
+                    />
+
+                <Button
+                    android:id="@+id/btn_fokker27"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="F 27"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:background="#00ffffff"
+                    style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                    android:fontFamily="sans-serif-condensed"
+                    android:layout_gravity="center"
+                    />
+
+                <Button
+                    android:id="@+id/btn_fokker28"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="F 28"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:background="#00ffffff"
+                    style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                    android:fontFamily="sans-serif-condensed"
+                    android:layout_gravity="center"
+                    />
+
+                <Button
+                    android:id="@+id/btn_fokker50"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="F 50"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:background="#00ffffff"
+                    style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                    android:fontFamily="sans-serif-condensed"
+                    android:layout_gravity="center"
+                    />
+
+                <Button
+                    android:id="@+id/btn_fokker70"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="F 70"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:background="#00ffffff"
+                    style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                    android:fontFamily="sans-serif-condensed"
+                    android:layout_gravity="center"
+                    />
+
+                <Button
+                    android:id="@+id/btn_fokker100"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="F 100"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:background="#00ffffff"
+                    style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                    android:fontFamily="sans-serif-condensed"
+                    android:layout_gravity="center"
+                    />
+
+                <Button
+                    android:id="@+id/btn_fokkerS13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="S13"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:background="#00ffffff"
+                    style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                    android:fontFamily="sans-serif-condensed"
+                    android:layout_gravity="center"
+                    />
+
+                <Button
+                    android:id="@+id/btn_fokkerS14"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="S14"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:background="#00ffffff"
+                    style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                    android:fontFamily="sans-serif-condensed"
+                    android:layout_gravity="center"
+                    />
+
+
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</RelativeLayout>

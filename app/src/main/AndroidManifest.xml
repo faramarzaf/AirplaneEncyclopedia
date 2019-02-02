@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.testairplaneencyclopedia">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".SecondActivity"
+            android:label="Categories"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".HelpActivity"
+            android:label="Help"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ContactUsActivity"
+            android:label="Contact Us"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CivilAirplanesActivity"
+            android:label="Airplanes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FighterJetsActivity"
+            android:label="Fighter Jets"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CarriageAirplanesActivity"
+            android:label="Carriage Airplanes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AirbusActivity"
+            android:label="Airbus"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AntonovActivity"
+            android:label="Antonov"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BoeingActivity"
+            android:label="Boeing"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".IlyushinActivity"
+            android:label="Ilyushin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TopolevActivity"
+            android:label="Tupolev"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".F4Activity"
+            android:label="F-4"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".F5Activity"
+            android:label="F-5"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".F14Activity"
+            android:label="F-14"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".F15Activity"
+            android:label="F-15"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".F18Activity"
+            android:label="F-18"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".F22Activity"
+            android:label="F-22"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".F35Activity"
+            android:label="F-35"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mig21Activity"
+            android:label="Mig-21"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mig23Activity"
+            android:label="Mig-23"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mig25Activity"
+            android:label="Mig-25"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mig29Activity"
+            android:label="Mig-29"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mig31Activity"
+            android:label="Mig-31"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Su24Activity"
+            android:label="Su-24"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Su25Activity"
+            android:label="Su-25"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Su34Activity"
+            android:label="Su-34"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Su35Activity"
+            android:label="Su-35"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".A300Activity"
+            android:label="A 300"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".A310Activity"
+            android:label="A 310"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".A318Activity"
+            android:label="A 318"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".A319Activity"
+            android:label="A 319"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".A320Activity"
+            android:label="A 320"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".A321Activity"
+            android:label="A 321"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".A330Activity"
+            android:label="A 330"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".A340Activity"
+            android:label="A 340"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".A350Activity"
+            android:label="A 350"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".A380Activity"
+            android:label="A 380"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Boeing707Activity"
+            android:label="Boeing 707"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Boeing717_200Activity"
+            android:label="Boeing 717-200"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Boeing737OriginalActivity"
+            android:label="Boeing 737-Original"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Boeing737ClassicActivity"
+            android:label="Boeing 737-Classic"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Boeing737NGActivity"
+            android:label="Boeing 737-NG"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Boeing737MaxActivity"
+            android:label="Boeing 737-Max"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Boeing747Activity"
+            android:label="Boeing 747"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Boeing747_8Activity"
+            android:label="Boeing 747-8"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Boeing757Activity"
+            android:label="Boeing 757"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Boeing767Activity"
+            android:label="Boeing 767"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Boeing777Activity"
+            android:label="Boeing 777"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Boeing777_XActivity"
+            android:label="Boeing 777-X"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Boeing787Activity"
+            android:label="Boeing 787"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Boeing720Activity"
+            android:label="Boeing 720"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Boeing727Activity"
+            android:label="Boeing 727"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".A40Activity"
+            android:label="A 40"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An2Activity"
+            android:label="An 2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An3Activity"
+            android:label="An 3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An8Activity"
+            android:label="An 8"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An10Activity"
+            android:label="An 10"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An11Activity"
+            android:label="An 11"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An12Activity"
+            android:label="An 12"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An13Activity"
+            android:label="An 13"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An14Activity"
+            android:label="An 14"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An22Activity"
+            android:label="An 22"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An24Activity"
+            android:label="An 24"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An26Activity"
+            android:label="An 26"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An30Activity"
+            android:label="An 30"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An32Activity"
+            android:label="An 32"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An38Activity"
+            android:label="An 38"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An50Activity"
+            android:label="An 50"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An70Activity"
+            android:label="An 70"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An71Activity"
+            android:label="An 71"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An72Activity"
+            android:label="An 72"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An74Activity"
+            android:label="An 74"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An124Activity"
+            android:label="An 124"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An132Activity"
+            android:label="An 132"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An140Activity"
+            android:label="An 140"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An148Activity"
+            android:label="An 148"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An158Activity"
+            android:label="An 158"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An178Activity"
+            android:label="An 178"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An225Activity"
+            android:label="An 225"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin2Activity"
+            android:label="Ilyushin 2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin10Activity"
+            android:label="Ilyushin 10"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin16Activity"
+            android:label="Ilyushin 16"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin40Activity"
+            android:label="Ilyushin 40"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin102Activity"
+            android:label="Ilyushin 102"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".IlyushinDB3Activity"
+            android:label="Ilyushin DB3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin6Activity"
+            android:label="Ilyushin 6"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin22Activity"
+            android:label="Ilyushin 22"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin28Activity"
+            android:label="Ilyushin 28"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin30Activity"
+            android:label="Ilyushin 30"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin54Activity"
+            android:label="Ilyushin 54"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin12Activity"
+            android:label="Ilyushin 12"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin32Activity"
+            android:label="Ilyushin 32"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin76Activity"
+            android:label="Ilyushin 76"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin78Activity"
+            android:label="Ilyushin 78"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin80Activity"
+            android:label="Ilyushin 80"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin112Activity"
+            android:label="Ilyushin 112"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin14Activity"
+            android:label="Ilyushin 14"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin18_1946Activity"
+            android:label="Ilyushin 18(1946)"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin18Activity"
+            android:label="Ilyushin 18"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin62Activity"
+            android:label="Ilyushin 62"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin86Activity"
+            android:label="Ilyushin 86"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin96Activity"
+            android:label="Ilyushin 96"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin114Activity"
+            android:label="Ilyushin 114"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ilyushin103Activity"
+            android:label="Ilyushin 103"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev104Activity"
+            android:label="Tupolev 104"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev114Activity"
+            android:label="Tupolev 114"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev116Activity"
+            android:label="Tupolev 116"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev124Activity"
+            android:label="Tupolev 124"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev134Activity"
+            android:label="Tupolev 134"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev144Activity"
+            android:label="Tupolev 144"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev154Activity"
+            android:label="Tupolev 154"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev214Activity"
+            android:label="Tupolev 214"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev334Activity"
+            android:label="Tupolev 334"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev4Activity"
+            android:label="Tupolev 4"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev14Activity"
+            android:label="Tupolev 14"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev16Activity"
+            android:label="Tupolev 16"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev20Activity"
+            android:label="Tupolev 20"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev22_mActivity"
+            android:label="Tupolev 22_M"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev128Activity"
+            android:label="Tupolev 128"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev126Activity"
+            android:label="Tupolev 126"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev142Activity"
+            android:label="Tupolev 142"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev160Activity"
+            android:label="Tupolev 160"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev1Activity"
+            android:label="Tupolev 1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev8Activity"
+            android:label="Tupolev 8"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev70Activity"
+            android:label="Tupolev 70"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev75Activity"
+            android:label="Tupolev 75"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev80Activity"
+            android:label="Tupolev 80"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev85Activity"
+            android:label="Tupolev 85"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev95_lalActivity"
+            android:label="Tupolev 95LAL"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev110Activity"
+            android:label="Tupolev 110"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev155Activity"
+            android:label="Tupolev 155"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev2Activity"
+            android:label="Tupolev 2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tupolev22Activity"
+            android:label="Tupolev 22"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".C130Activity"
+            android:label="C-130"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".C5Activity"
+            android:label="C-5"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".C12Activity"
+            android:label="C-12"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".C17Activity"
+            android:label="C-17"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".C26Activity"
+            android:label="C-26"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".C130jActivity"
+            android:label="C-130J"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".C144Activity"
+            android:label="C-144"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".C146Activity"
+            android:label="C-146"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FokkerActivity"
+            android:label="Fokker"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Fokker25Activity"
+            android:label="Fokker 25"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Fokker27Activity"
+            android:label="Fokker 27"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Fokker28Activity"
+            android:label="Fokker 28"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Fokker50Activity"
+            android:label="Fokker 50"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Fokker70Activity"
+            android:label="Fokker 70"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Fokker100Activity"
+            android:label="Fokker 100"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FokkerS13Activity"
+            android:label="Fokker S13"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FokkerS14Activity"
+            android:label="Fokker S14"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".HelicoptersActivity"
+            android:label="Helicopters"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BellActivity"
+            android:label="Bell"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".KamovActivity"
+            android:label="Kamov"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MilActivity"
+            android:label="Mil"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EurocopterActivity"
+            android:label="Eurocopter"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell47Activity"
+            android:label="Bell 47"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell47jActivity"
+            android:label="Bell 47-J"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell204Activity"
+            android:label="Bell 204"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell206Activity"
+            android:label="Bell 206"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell212Activity"
+            android:label="Bell 212"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell214Activity"
+            android:label="Bell 214"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell214stActivity"
+            android:label="Bell 214-ST"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell412Activity"
+            android:label="Bell 412"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell222Activity"
+            android:label="Bell 222"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell407Activity"
+            android:label="Bell 407"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell427Activity"
+            android:label="Bell 427"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell429Activity"
+            android:label="Bell 429"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell430Activity"
+            android:label="Bell 430"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell525Activity"
+            android:label="Bell 525"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell_h12Activity"
+            android:label="Bell H-12"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell_h13Activity"
+            android:label="Bell H-13"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell_xh15Activity"
+            android:label="Bell XH-15"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell_hslActivity"
+            android:label="Bell HSL"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell_uh1Activity"
+            android:label="Bell UH-1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell207Activity"
+            android:label="Bell 207"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell_ah1cobraActivity"
+            android:label="Bell AH1(Cobra)"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bell_ah1supercobraActivity"
+            android:label="Bell AH1(SuperCobra)"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Kamov20Activity"
+            android:label="Kamov-20"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Kamov25Activity"
+            android:label="Kamov-25"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Kamov27Activity"
+            android:label="Kamov-27"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Kamov31Activity"
+            android:label="Kamov-31"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Kamov35Activity"
+            android:label="Kamov-35"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Kamov40Activity"
+            android:label="Kamov-40"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Kamov50Activity"
+            android:label="Kamov-50"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Kamov60Activity"
+            android:label="Kamov-60"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Kamov18Activity"
+            android:label="Kamov-18"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Kamov26Activity"
+            android:label="Kamov-26"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Kamov37Activity"
+            android:label="Kamov-37"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Kamov115Activity"
+            android:label="Kamov-115"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Kamov226Activity"
+            android:label="Kamov-226"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mil1Activity"
+            android:label="Mil-1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mil2Activity"
+            android:label="Mil-2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mil4Activity"
+            android:label="Mil-4"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mil6Activity"
+            android:label="Mil-6"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mil8Activity"
+            android:label="Mil-8"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mil10Activity"
+            android:label="Mil-10"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mil14Activity"
+            android:label="Mil-14"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mil17Activity"
+            android:label="Mil-17"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mil24Activity"
+            android:label="Mil-24"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mil26Activity"
+            android:label="Mil-26"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Mil28Activity"
+            android:label="Mil-28"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EurocopterAs532Activity"
+            android:label="AS-532"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EurocopterAs565Activity"
+            android:label="AS-565"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EurocopterEc635Activity"
+            android:label="EC-635"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EurocopterEc725Activity"
+            android:label="EC-725"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EurocopterFennecActivity"
+            android:label="Fennec"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EurocopterHH_65dolphinActivity"
+            android:label="HH-65 Dolphin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EurocopterTigerActivity"
+            android:label="Tiger"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EurocopterUh72lakotaActivity"
+            android:label="Uh-72 Lakota"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".An28Activity"
+            android:label="An 28"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".F16Activity"
+            android:label="F-16"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Su27Activity"
+            android:label="Su-27"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".IntroSliderActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

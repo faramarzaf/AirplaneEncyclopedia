@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AirplaneEncyclopedia</string>
+    <string name="categories">Categories</string>
+
+
+    <string name="slide_1_title">The easiest !</string>
+    <string name="slide_1_desc">Welcome to the easiest and most enjoyable way to recognize aircraft.</string>
+
+    <string name="slide_2_title">Brief and useful !</string>
+    <string name="slide_2_desc">Varied information and clever categorization.</string>
+
+    <string name="slide_3_title">Brief information !</string>
+    <string name="slide_3_desc">Best description with photos in each model.</string>
+
+    <string name="slide_4_title">Expert !</string>
+    <string name="slide_4_desc">You will eventually become an aircraft expert.</string>
+
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="gotit">Got It</string>
+
+
+    <string-array name="slide_titles">
+        <item>@string/slide_1_title</item>
+        <item>@string/slide_2_title</item>
+        <item>@string/slide_3_title</item>
+        <item>@string/slide_4_title</item>
+    </string-array>
+
+
+    <string-array name="slide_descriptions">
+        <item>@string/slide_1_desc</item>
+        <item>@string/slide_2_desc</item>
+        <item>@string/slide_3_desc</item>
+        <item>@string/slide_4_desc</item>
+    </string-array>
+
+
+</resources>

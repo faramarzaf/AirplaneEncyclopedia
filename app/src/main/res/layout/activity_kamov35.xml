@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.testairplaneencyclopedia.Kamov35Activity"
+    android:background="@drawable/background_content"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/ka35_1"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:layout_marginTop="10dp"
+                app:srcCompat="@drawable/ka35_1"
+
+                />
+
+            <ImageView
+                android:id="@+id/ka35_2"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:layout_marginTop="-300dp"
+                android:alpha="-5"
+                app:srcCompat="@drawable/ka35_2"
+
+                />
+
+            <TextView
+                android:id="@+id/tv_generalExplanation"
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="6dp"
+                android:layout_marginBottom="2dp"
+                android:background="@drawable/background_styles_general_text"
+                android:fontFamily="monospace"
+                android:gravity="center"
+                android:text="General explanation"
+                android:textColor="#ffffff"
+                android:textSize="15.2dp"
+                android:textStyle="italic" />
+            <TextView
+                android:id="@+id/textView53"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/background_styles_text"
+                android:fontFamily="serif"
+                android:padding="5dp"
+                android:text="The Kamov Ka-35\n(or Ka-31SV/Ka-252SV) is the newest Russian early warning radar-carrying rotary-wing aircraft.\nThe Ka-35 has passed all tests and has been authorized for service.\nIt is equipped with a rotating laterally oriented antenna of the L381 complex.\nIn late October 2016, the helicopter was deployed to Syria."
+                android:textColor="#000000"
+                android:textIsSelectable="true"
+                android:textSize="18dp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
