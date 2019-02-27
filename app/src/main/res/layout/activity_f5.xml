@@ -55,7 +55,7 @@
                 android:id="@+id/textView37"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Northrop F-5A and F-5B Freedom Fighter and the F-5E\nand F-5F Tiger II are part of a\nsupersonic light fighter family, initially designed in the late 1950s by Northrop Corporation.\nBeing smaller and simpler than contemporaries such as the McDonnell Douglas F-4 Phantom II, the F-5 cost less to both procure and operate, making\nit a popular export aircraft. "
+                android:text="@string/f5"
                 android:layout_margin="10dp"
                 android:textSize="18dp"
                 android:textColor="#000000"

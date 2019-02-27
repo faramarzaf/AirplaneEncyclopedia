@@ -56,7 +56,7 @@
                 android:id="@+id/textView106"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Lockheed C-5 Galaxy is a large military transport aircraft originally designed and built by Lockheed, and now maintained and upgraded by its successor, Lockheed Martin.\n\nIt provides the United States Air Force (USAF) with a heavy\nintercontinental-range strategic airlift capability, one that can carry outsize and oversize loads, including all\nair-certifiable cargo.\n\nThe Galaxy has many similarities to its smaller Lockheed C-141 Starlifter predecessor, and the later Boeing C-17 Globemaster III.\nThe C-5 is among the largest military aircraft in the world."
+                android:text="@string/c5"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

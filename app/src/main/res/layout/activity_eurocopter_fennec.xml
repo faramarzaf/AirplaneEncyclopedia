@@ -55,7 +55,7 @@
                 android:id="@+id/textView94"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Eurocopter\n(now Airbus Helicopters) AS550 Fennec\n(now H125M) and AS555 Fennec 2 are lightweight, multipurpose helicopters manufactured by Eurocopter Group.\nBased on the AS350 Ecureuil and AS355 Ecureuil 2 series, they are named after the fennec fox.\nThe armed versions of the AS550 and AS555 can be fitted with coaxial weapons, rockets, torpedoes and\nvarious other munitions."
+                android:text="@string/eurocopterFennec"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

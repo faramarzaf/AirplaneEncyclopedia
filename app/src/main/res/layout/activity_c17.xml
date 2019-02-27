@@ -63,7 +63,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Boeing C-17 Globemaster III is a large military transport aircraft.\nIt was developed for the United States Air Force (USAF) from the 1980s to the early 1990s by McDonnell Douglas.\n\nThe C-17 carries forward the name of two previous piston-engine military cargo aircraft, the Douglas C-74 Globemaster and the Douglas C-124 Globemaster II.\nThe C-17 commonly performs tactical and strategic airlift missions, transporting troops and cargo throughout the world; additional roles include medical evacuation and airdrop duties.\nIt was designed to replace the Lockheed C-141 Starlifter, and also fulfill some of the duties of the Lockheed C-5 Galaxy, freeing the C-5 fleet for outsize cargo."
+                android:text="@string/c17"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

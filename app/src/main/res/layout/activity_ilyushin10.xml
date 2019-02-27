@@ -48,7 +48,7 @@
                 android:id="@+id/tv_il10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-10\n-Cyrillic Илью́шин Ил-10-\n-NATO reporting name: ‘Beast’-\nwas a Soviet ground attack aircraft developed at the end of World War II by the Ilyushin construction bureau.\nIt was also license-built in Czechoslovakia by Avia as the Avia B-33."
+                android:text="@string/Ilyushin10"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

@@ -59,7 +59,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Sukhoi Su-35\n-Russian: Сухой Су 35-\n-NATO reporting name: Flanker E-\nis the designation for two improved derivatives of the Su-27 air-defense fighter.\nThey are single-seat, twin-engine,\nsuper maneuverable aircraft, designed by the Sukhoi Design Bureau and built by the Komsomolsk-on-Amur Aircraft Plant."
+                android:text="@string/Su35"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

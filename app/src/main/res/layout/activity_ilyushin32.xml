@@ -57,7 +57,7 @@
                 android:id="@+id/tv_il32"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-32 was a Soviet heavy military glider developed after World War II to deliver 7,000 kg (15,000 lb) of cargo.\nTo facilitate loading and unloading, the glider's nose and tail sections were hinged to swing sideways."
+                android:text="@string/Ilyushin32"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

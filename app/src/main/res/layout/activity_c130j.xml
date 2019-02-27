@@ -56,7 +56,7 @@
                 android:id="@+id/textView105"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Lockheed Martin C-130J Super Hercules is a\nfour-engine turboprop military transport aircraft.\nThe C-130J is a comprehensive update of the Lockheed C-130 Hercules, with new engines, flight deck, and other systems.\n\nThe Hercules family has the longest continuous production run of any military aircraft in history.\nDuring more than 60 years of service, the family has participated in military, civilian, and humanitarian aid operations.\n\nThe Hercules has outlived several planned successor designs, most notably the Advanced Medium STOL Transport contestants.\nFifteen nations have placed orders for a total of 300 C-130Js, of which 250 aircraft have been delivered as of February 2012."
+                android:text="@string/c130j"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

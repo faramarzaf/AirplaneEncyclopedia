@@ -55,7 +55,7 @@
                 android:id="@+id/textView95"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Eurocopter HH-65 Dolphin is a\ntwin-engine, single main rotor,\nmedevac-capable search and rescue (SAR) helicopter operated by the United States Coast Guard (USCG).\nIt is a variant of the French-built Eurocopter AS365 Dauphin."
+                android:text="@string/eurocopterHH65"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

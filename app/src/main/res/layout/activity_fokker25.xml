@@ -60,7 +60,7 @@
                 android:id="@+id/textView30"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Fokker F.25 Promotor, first flown in 1946, was a single-engine, twin-boomed, four-passenger monoplane with a pusher engine mounted at the rear of a central nacelle.\nIt was of wooden construction and has fitted with a retractable nose wheel undercarriage."
+                android:text="@string/fokker25"
                 android:layout_margin="10dp"
                 android:textSize="18dp"
                 android:textColor="#000000"

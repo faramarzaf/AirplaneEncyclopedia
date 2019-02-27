@@ -44,7 +44,7 @@
                 android:id="@+id/tv_il6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-6 was a Soviet long-range bomber developed from the Ilyushin Il-4 during 1942.\nOriginally intended as a high-speed replacement for the Il-4, it was recast as a very long-range bomber with\nfuel-conserving diesel engines before production of the single prototype\nbegan in December 1942."
+                android:text="@string/Ilyushin6"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

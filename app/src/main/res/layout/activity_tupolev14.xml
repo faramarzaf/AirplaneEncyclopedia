@@ -46,7 +46,7 @@
                 android:id="@+id/tv_tu14"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-14\n\n(NATO reporting name: Bosun)\n\n(USAF/DOD reporting name: Type 35)\n\nwas a Soviet twin-turbojet light bomber derived from the Tupolev Tu-73, the failed competitor to the Ilyushin Il-28 'Beagle'.\n\nIt was used as a torpedo bomber by the mine-torpedo regiments of Soviet Naval Aviation between 1952–59 and exported to the People's Republic of China."
+                android:text="@string/Tupolev14"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

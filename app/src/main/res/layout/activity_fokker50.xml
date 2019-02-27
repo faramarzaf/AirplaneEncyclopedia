@@ -61,7 +61,7 @@
                 android:id="@+id/textView30"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Fokker 50 is a turbo prop-powered airliner, designed as a refinement of\nand successor to the highly successful Fokker F27 Friendship.\nThe Fokker 60 is a stretched freighter version of the Fokker 50. Both aircraft were manufactured and supported by Dutch aircraft manufacturer Fokker."
+                android:text="@string/fokker50"
                 android:layout_margin="10dp"
                 android:textSize="18dp"
                 android:textColor="#000000"

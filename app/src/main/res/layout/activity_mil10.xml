@@ -56,7 +56,7 @@
                 android:id="@+id/textView68"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Mil Mi-10\n(NATO reporting name Harke)\ngiven the product number izdeliye 60\nis a Soviet military transport helicopter of flying crane configuration, developed from the Mi-6, entering service in 1963."
+                android:text="@string/Mil10"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

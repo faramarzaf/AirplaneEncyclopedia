@@ -47,7 +47,7 @@
                 android:id="@+id/textView12"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-75 was a military transport variant of the Tu-4 bomber,\nas was a similar airliner, the Tu-70, both using a new, purpose-designed fuselage.\nThe first Soviet military machine of this class, it was equipped with a rear fuselage loading ramp."
+                android:text="@string/Tupolev75"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

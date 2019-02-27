@@ -56,7 +56,7 @@
                 android:id="@+id/textView24"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-144\n(Russian: Tyполев Ту-144)\n(NATO reporting name: Charger)\nis a retired jet airliner and commercial supersonic transport aircraft (SST).\nIt is one of only two SSTs to enter commercial service, the other being the Anglo-French Concorde.\nThe design was a product of the Tupolev design bureau, headed by Alexei Tupolev, of the Soviet Union and manufactured by the Voronezh Aircraft Production Association in Voronezh, Russia."
+                android:text="@string/Tupolev144"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

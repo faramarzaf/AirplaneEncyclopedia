@@ -58,7 +58,7 @@
                 android:id="@+id/tv_tu2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-2\n-development names ANT-58 and 103-\n-NATO reporting name Bat-\nwas a twin-engine Soviet high-speed daylight and frontline (SDB and FB) bomber aircraft of World War II vintage.\n\nThe Tu-2 was tailored to meet a requirement for a high-speed bomber or dive-bomber, with a large internal bombload, and speed similar to that of a single-seat fighter.\nDesigned to challenge the German Junkers Ju 88, the Tu-2 proved comparable, and was produced in torpedo, interceptor and reconnaissance versions.\nThe Tu-2 was one of the outstanding combat aircraft of World War II and it played a key role in the Red Army's final offensives."
+                android:text="@string/Tupolev2"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

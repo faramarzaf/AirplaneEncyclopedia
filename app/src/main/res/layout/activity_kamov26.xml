@@ -58,7 +58,7 @@
                 android:id="@+id/textView50"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Kamov Ka-26\n(NATO reporting name Hoodlum)\nis a Soviet light utility helicopter with co-axial rotors."
+                android:text="@string/Kamov26"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

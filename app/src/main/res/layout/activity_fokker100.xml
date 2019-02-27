@@ -61,7 +61,7 @@
                 android:id="@+id/textView30"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Fokker 100 is a medium-sized,\ntwin-turbofan jet airliner from Fokker, the largest such aircraft built by the company before its bankruptcy in 1996.\nThe type possessed low operational costs and initially had scant competition in the 100-seat short-range regional jet class, contributing to strong sales upon introduction in the late 1980s."
+                android:text="@string/fokker100"
                 android:layout_margin="10dp"
                 android:textSize="18dp"
                 android:textColor="#000000"

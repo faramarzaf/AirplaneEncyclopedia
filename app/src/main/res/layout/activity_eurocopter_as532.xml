@@ -54,7 +54,7 @@
                 android:id="@+id/textView90"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Eurocopter AS532 Cougar\n(now Airbus Helicopters H215M)\nis a twin-engine, medium-weight, multipurpose helicopter developed by France.\nThe AS532 is a development and\nupgrade of the Aerospatiale SA 330 Puma in its militarized form.\n\n*Its civilian counterpart is the Eurocopter AS332 Super Puma*\n\nThe AS532 has been further developed\nas the Eurocopter EC725."
+                android:text="@string/eurocopterAS532"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

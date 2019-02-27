@@ -55,7 +55,7 @@
                 android:id="@+id/tv_f16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The General Dynamics F-16 Fighting Falcon is a single-engine supersonic multirole fighter aircraft originally developed by General Dynamics\n(now Lockheed Martin) for the United States Air Force (USAF).\nDesigned as an air superiority day fighter, it evolved into a successful all-weather multirole aircraft."
+                android:text="@string/f16"
                 android:layout_margin="10dp"
                 android:textSize="18dp"
                 android:textColor="#000000"

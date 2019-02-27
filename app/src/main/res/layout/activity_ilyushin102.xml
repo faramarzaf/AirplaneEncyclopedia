@@ -49,7 +49,7 @@
                 android:id="@+id/tv_il102"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-102 was an experimental jet-powered ground-attack aircraft designed by Ilyushin.\nThis aircraft was never chosen for production, being surpassed by\nthe Su-25, and only a few development prototypes were built."
+                android:text="@string/Ilyushin102"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

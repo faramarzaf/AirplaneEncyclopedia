@@ -58,7 +58,7 @@
                 android:id="@+id/tv_il62"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin IL-62\n-Russian: Илью́шин Ил-62-\n-NATO reporting name: Classic-is a Soviet long-range narrow-body jet airliner conceived in 1960 by Ilyushin.\nAs successor to the popular turboprop Il-18 and with capacity for almost 200 passengers and crew, the Il-62 was the world's largest jet airliner when first flown in 1963."
+                android:text="@string/Ilyushin62"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

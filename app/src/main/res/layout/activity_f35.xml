@@ -55,7 +55,7 @@
                 android:id="@+id/textView35"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Lockheed Martin F-22 Raptor is a fifth-generation, single-seat,\ntwin-engine, all-weather stealth tactical fighter aircraft developed for the United States Air Force (USAF).\n\nThe result of the USAF's Advanced Tactical Fighter program, the aircraft was designed primarily as an air superiority fighter, but also has ground attack, electronic warfare, and signal intelligence capabilities."
+                android:text="@string/f35"
                 android:layout_margin="10dp"
                 android:textSize="18dp"
                 android:textColor="#000000"

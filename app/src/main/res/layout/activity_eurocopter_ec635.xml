@@ -53,7 +53,7 @@
                 android:id="@+id/textView92"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Eurocopter EC635\n(now Airbus Helicopters H135M)\nis a multi-purpose light helicopter developed by Eurocopter as a military version of the Eurocopter EC135.\n\nIt is a twin-engine aircraft and can carry up to 8 people, including the pilot, and a range of military equipment or armaments.\n\nThe helicopter is marketed for troop transport, medical evacuation, cargo transport, reconnaissance and surveillance and armed combat support missions."
+                android:text="@string/eurocopterEC635"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

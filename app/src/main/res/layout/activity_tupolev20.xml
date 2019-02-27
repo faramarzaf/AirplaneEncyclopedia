@@ -56,7 +56,7 @@
                 android:id="@+id/tv_tu20"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-95\n-Russian: Туполев Ту-95-\n-NATO reporting name: Bear-\nis a large, four-engine\nturboprop-powered strategic\nbomber and missile platform.\nFirst flown in 1952, the Tu-95 entered service with the Soviet Union in 1956\nand is expected to serve the Russian Air Force until at least 2040.\nA development of the bomber for maritime patrol is designated Tu-142, while a passenger airliner derivative was called Tu-114."
+                android:text="@string/Tupolev20"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

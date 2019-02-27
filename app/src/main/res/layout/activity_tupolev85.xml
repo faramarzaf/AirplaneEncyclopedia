@@ -51,7 +51,7 @@
                 android:id="@+id/textView14"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-85\n-USAF/DoD reporting name 'Type 31'-\nNATO reporting name 'Barge'\nwas a Soviet prototype strategic bomber based on the Tu-4, an unlicensed reverse engineered copy of the Boeing B-29 Super fortress."
+                android:text="@string/Tupolev85"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

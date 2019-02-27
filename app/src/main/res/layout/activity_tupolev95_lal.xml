@@ -58,7 +58,7 @@
                 android:id="@+id/textView15"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-95LAL\n-Letayushchaya Atomnaya Laboratoriya-literally: flying atomic laboratory\nwas an experimental aircraft that was\na modified Tupolev Tu-95 Soviet bomber aircraft, which flew from 1961 to 1965, analogous to the United States earlier Convair NB-36H Crusader. "
+                android:text="@string/Tupolev95lal"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

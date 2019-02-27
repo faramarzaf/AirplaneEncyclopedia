@@ -57,7 +57,7 @@
                 android:id="@+id/textView54"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Kamov Ka-37 is an unmanned helicopter designed for aerial photography, television and radio broadcasting, delivery of medicines, food, mail, and emergency aid in disasters or hard and dangerous environments, and later\nseveral military roles.\n\nThe aircraft uses coaxial rotors and\na 45 kW engine.\nThe operator may be located in a\nvehicle with monitors and flight controls, or with a simple hand-held radio controller."
+                android:text="@string/Kamov37"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

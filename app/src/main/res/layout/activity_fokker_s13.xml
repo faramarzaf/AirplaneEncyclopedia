@@ -59,7 +59,7 @@
                 android:id="@+id/textView30"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Fokker S.13 Universal Trainer is a dual engine propeller aircraft for training purposes designed and manufactured by the former Dutch aircraft manufacturer Fokker."
+                android:text="@string/fokkerS13"
                 android:layout_margin="10dp"
                 android:textSize="18dp"
                 android:textColor="#000000"

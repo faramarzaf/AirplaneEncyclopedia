@@ -57,7 +57,7 @@
                 android:id="@+id/textView30"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Grumman F-14 Tomcat is an American supersonic, twin-engine,\ntwo-seat, twin-tail, variable-sweep\nwing fighter aircraft.\nThe Tomcat was developed for the United States Navy's Naval Fighter Experimental (VFX) program after the collapse of the F-111B project.\nThe F-14 was the first of the American teen-series fighters, which were designed incorporating air combat experience against MiG fighters during the Vietnam War."
+                android:text="@string/f14"
                 android:layout_margin="10dp"
                 android:textSize="18dp"
                 android:textColor="#000000"

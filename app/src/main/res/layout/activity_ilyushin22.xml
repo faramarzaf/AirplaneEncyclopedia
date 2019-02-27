@@ -46,7 +46,7 @@
                 android:id="@+id/tv_il22"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-22-\nUSAF/DOD- designation Type 10, was the first Soviet\njet-engine bomber to fly.\nIt used four Lyulka TR-1turbojets\ncarried on short horizontal pylons\nahead and below the wing.\nThe engines did not meet their designed thrust ratings and their fuel\nconsumption was higher than planned.\nThese problems meant that the aircraft could not reach its required performance and it was cancelled on 22 September 1947."
+                android:text="@string/Ilyushin22"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

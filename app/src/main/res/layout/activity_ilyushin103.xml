@@ -46,7 +46,7 @@
                 android:id="@+id/tv_il103"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-103 is\na single-engine, low-wing training aircraft developed by the Ilyushin Design Bureau starting in 1990 in the Soviet Union.\nThe aircraft is now produced in Russia.\nIt was the first Russian aircraft\nto achieve Federal Aviation Administration certification, in 1998, for sales in the United States. "
+                android:text="@string/Ilyushin103"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

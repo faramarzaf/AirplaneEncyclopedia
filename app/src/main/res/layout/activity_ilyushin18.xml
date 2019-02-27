@@ -56,7 +56,7 @@
                 android:id="@+id/tv_il18"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-18\n-Russian: Илью́шин Ил-18-\n-NATO reporting name: Coot-\nis a large turboprop airliner that first flew in 1957 and became one of the best known and durable Soviet aircraft of its era.\nThe Il-18 was one of the world's\nprincipal airliners for several decades and was widely exported."
+                android:text="@string/Ilyushin18"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

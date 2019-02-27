@@ -48,7 +48,7 @@
                 android:id="@+id/textView18"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-114 Rossiya\n(Russian: Tyполев Тy-114 Poccия)\n(NATO reporting name Cleat)\nwas a turboprop-powered long-range airliner designed by the Tupolev design bureau and built in the USSR from May 1955.\nThe aircraft was the largest and fastest passenger plane at that time and also had the longest range (10,900 km (6,800 mi)).\n\nIt has held the official title of fastest propeller-driven aircraft since 1960. "
+                android:text="@string/Tupolev114"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

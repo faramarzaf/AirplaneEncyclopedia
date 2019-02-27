@@ -48,7 +48,7 @@
                 android:id="@+id/textView17"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-110\n(NATO reporting name: Cooker)\nwas a jet airliner designed and built in the USSR, which saw its maiden flight in 1957."
+                android:text="@string/Tupolev110"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

@@ -47,7 +47,7 @@
                 android:id="@+id/tv_il18_1946"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-18 was a Soviet\nfour-engine airliner designed and\nbuilt by Ilyushin immediately after\nWorld War II.\nAlthough the aircraft itself was successful, its Shvetsov ASh-73TK\nengines were too unreliable for\ncivilian use and were further needed\nto equip the Tupolev Tu-4 bomber, so it was cancelled in 1948."
+                android:text="@string/Ilyushin18_1946"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

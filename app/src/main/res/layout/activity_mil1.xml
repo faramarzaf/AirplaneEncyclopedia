@@ -61,7 +61,7 @@
                 android:id="@+id/textView67"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Mil Mi-1\n(USAF/DoD reporting name Type 32 NATO reporting name Hare)\nwas a Soviet three- or four-seat light utility helicopter.\nIt was the first Soviet helicopter to enter serial production.\nIt is powered by one 575 hp Ivchenko AI-26V radial.\nIt entered service in 1950 and was first seen on the 1951 Soviet Aviation Day, Tushino and was produced for 16 years.\nMore than 1,000 were built in the USSR and 1,594 in Poland, as SM-1."
+                android:text="@string/Mil1"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

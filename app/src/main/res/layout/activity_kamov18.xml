@@ -60,7 +60,7 @@
                 android:id="@+id/textView44"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Kamov Ka-18\n(NATO reporting name Hog) was\na Soviet four-seat utility helicopter that first flew in 1955.\nIt was a development of the Kamov Ka-15, with a lengthened fuselage and a more powerful engine - the 255 hp Ivchenko AI-14V radial.\nTotal production from Kamov was about 120 units."
+                android:text="@string/Kamov18"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

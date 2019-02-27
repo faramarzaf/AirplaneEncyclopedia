@@ -61,7 +61,7 @@
                 android:id="@+id/textView21"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-126\n(NATO reporting name: Moss)\nwas an airborne early warning and control aircraft developed from the Tupolev Tu-114 airliner by the Tupolev design bureau.\nIt was in service with the armed forces of the Soviet Union from 1965 to 1984."
+                android:text="@string/Tupolev126"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

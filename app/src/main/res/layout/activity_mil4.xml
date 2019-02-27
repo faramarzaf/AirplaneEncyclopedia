@@ -60,7 +60,7 @@
                 android:id="@+id/textView63"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Mil Mi-4\n(USAF/DoD reporting name Type 36)\n( NATO reporting name: Hound)\nis a Soviet transport helicopter that served in both military and civilian roles."
+                android:text="@string/Mil4"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

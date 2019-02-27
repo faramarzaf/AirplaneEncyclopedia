@@ -60,7 +60,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Sukhoi Su-34\n-Russian: Сухой Су-34-\n-NATO reporting name: Fullback-\nis a Russian twin-engine, twin-seat,\nall-weather supersonic medium-range fighter-bomber/aircraft.\nIt first flew in 1990 and entered service in 2014 with the Russian Air Force. "
+                android:text="@string/Su34"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

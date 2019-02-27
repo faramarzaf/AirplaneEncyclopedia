@@ -61,7 +61,7 @@
                 android:id="@+id/textView30"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Fokker F28 Fellowship is a short range jet airliner designed and built by Dutch aircraft manufacturer Fokker."
+                android:text="@string/fokker28"
                 android:layout_margin="10dp"
                 android:textSize="18dp"
                 android:textColor="#000000"

@@ -45,7 +45,7 @@
                 android:id="@+id/tv_il16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-16\n(Cyrillic Илью́шин Ил-16)\nwas a Soviet lightweight armored ground-attack aircraft developed at the end of World War II by the Ilyushin design bureau.\nIt was in essence a scaled-down version of the Ilyushin Il-10, but was fitted with a newly developed Mikulin AM-43NV engine with the expectation that it\nwould be faster and more maneuverable than its predecessor."
+                android:text="@string/Ilyushin16"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

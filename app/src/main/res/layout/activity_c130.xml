@@ -57,7 +57,7 @@
                 android:id="@+id/textView104"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Lockheed C-130 Hercules is a\nfour-engine turboprop military transport aircraft designed and built originally by Lockheed\n(now Lockheed Martin).\nCapable of using unprepared runways for takeoffs and landings, the C-130 was originally designed as a troop, medevac, and cargo transport aircraft.\n\nThe versatile airframe has found uses in a variety of other roles, including as a gunship (AC-130), for airborne assault, search and rescue, scientific research support, weather reconnaissance, aerial refueling, maritime patrol, and aerial firefighting.\n\nIt is now the main tactical airlifter for many military forces worldwide.\nMore than 40 variants of the Hercules, including a civilian one marketed as the Lockheed L-100, operate in more than 60 nations."
+                android:text="@string/c130"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

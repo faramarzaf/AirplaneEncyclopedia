@@ -60,7 +60,7 @@
                 android:id="@+id/textView60"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Mil Mi-24\n(Russian: Миль Ми-24)\n(NATO reporting name: Hind)\nis a large helicopter gunship, attack helicopter and low-capacity troop transport with room for eight passengers.\n\nIt is produced by Mil Moscow Helicopter Plant and has been operated since\n1972 by the Soviet Air Force and its successors, along with more than 30 other nations."
+                android:text="@string/Mil24"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

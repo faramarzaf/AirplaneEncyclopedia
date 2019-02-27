@@ -48,7 +48,7 @@
                 android:id="@+id/textView13"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-80 was a Soviet\nprototype for a longer-ranged version\nof the Tupolev Tu-4 bomber, built after World War II.\nIt was canceled in 1949 in favor of the Tupolev Tu-85 program which offered even more range.\nThe sole prototype was used in various test programs before finally being used as a target."
+                android:text="@string/Tupolev80"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

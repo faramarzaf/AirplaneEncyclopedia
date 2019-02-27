@@ -57,7 +57,7 @@
                 android:id="@+id/textView51"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Kamov Ka-27\n(NATO reporting name 'Helix')\nis a military helicopter developed for\nthe Soviet Navy, and currently in service in various countries including Russia, Ukraine, Vietnam, China, South Korea, and India.\nVariants include the Ka-29 assault transport, the Ka-28 downgraded\nexport version, and the Ka-32 for civilian use."
+                android:text="@string/Kamov27"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

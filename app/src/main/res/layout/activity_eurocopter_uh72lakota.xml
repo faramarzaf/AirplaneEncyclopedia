@@ -53,7 +53,7 @@
                 android:id="@+id/textView97"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Eurocopter\n(now Airbus Helicopters) UH-72 Lakota is a twin-engine helicopter with a\nsingle four-bladed main rotor.\nThe UH-72 is a militarized version\nof the Eurocopter EC145 and was built by American Eurocopter, a division of Airbus Group, Inc.\nInitially marketed as the UH-145, the helicopter was selected as the winner\nof the United States Army's Light Utility Helicopter (LUH) program on 30 June 2006. "
+                android:text="@string/eurocopterUH72"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

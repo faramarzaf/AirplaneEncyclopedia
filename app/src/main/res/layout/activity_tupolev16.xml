@@ -56,7 +56,7 @@
                 android:id="@+id/tv_tu16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-16\n(NATO reporting name: Badger)\nwas a twin-engined jet strategic heavy bomber used by the Soviet Union.\nIt has flown for more than 60 years,\nand the Chinese license-built Xian H-6 remains in service with the People's Liberation Army Air Force."
+                android:text="@string/Tupolev16"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

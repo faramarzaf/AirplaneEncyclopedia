@@ -57,7 +57,7 @@
                 android:id="@+id/textView49"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Kamov Ka-25\n(NATO reporting name Hormone)\nwas a naval helicopter, developed for the Soviet Navy in the USSR from 1958."
+                android:text="@string/Kamov25"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

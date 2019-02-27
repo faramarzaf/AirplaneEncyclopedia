@@ -60,7 +60,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Sukhoi Su-25\nGrach -Russian: Грач (rook)\nNATO reporting name: -Frog foot-\nis a single-seat, twin-engine jet aircraft developed in the Union by Sukhoi.\n\nIt was designed to provide close air support for the Soviet Ground Forces.\nThe first prototype made its maiden flight on 22 February 1975.\nAfter testing, the aircraft went into series production in 1978 at Tbilisi in\nthe Georgian Soviet Socialist Republic."
+                android:text="@string/Su25"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

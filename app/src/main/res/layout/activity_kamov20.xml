@@ -57,7 +57,7 @@
                 android:id="@+id/textView47"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Kamov Ka-20\n(NATO reporting name Harp)\nwas a Soviet twin-engine prototype helicopter designed and built by Kamov that led to the Ka-25family of helicopters.\n\nDeveloped from the earlier Ka-15 to meet a 1958 Soviet Navy requirement\nfor a heavy shipborne helicopter, the Ka-20 had the similar\ntwin contra-rotating, three-blade rotors of the earlier Ka-15 design and was powered by two 670 kW turboshaft engines.\n\nThe Ka-20 first became known outside the Soviet Union at the 1961 Tushino Aviation Day display where a Ka-20 was demonstrated fitted with dummy missiles on the cabin sides."
+                android:text="@string/Kamov20"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

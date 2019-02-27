@@ -57,7 +57,7 @@
                 android:id="@+id/tv_il78"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-78\n-Russian: Илью́шин Ил-78-\n-NATO reporting name Midas-\nis a Soviet four-engined aerial refueling tanker based on the Il-76."
+                android:text="@string/Ilyushin78"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

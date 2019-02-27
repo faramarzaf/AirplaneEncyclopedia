@@ -47,7 +47,7 @@
                 android:id="@+id/textView10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-70\n(NATO reporting name: Cart)\nwas a Soviet passenger variant of the Tu-4 bomber\n*which was a reverse-engineered copy of the American-made Boeing B-29 Super fortress*\ndesigned immediately after the end of World War II.\nIt used a number of components from Boeing B-29s that had made emergency landings in the Soviet Union after running out of fuel after bombing Japan."
+                android:text="@string/Tupolev70"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

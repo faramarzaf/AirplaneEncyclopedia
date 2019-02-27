@@ -60,7 +60,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Ilyushin Il-80\n(NATO reporting name: Maxdome)\nis a Russian airborne command and control aircraft.\nIt is a modified Ilyushin Il-86 airliner"
+                android:text="@string/Ilyushin80"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

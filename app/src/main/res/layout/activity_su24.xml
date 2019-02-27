@@ -61,7 +61,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Sukhoi Su-24\n-NATO reporting name: Fencer-\nis a supersonic, all-weather attack aircraft developed in the Soviet Union.\n\nThe aircraft has a variable-sweep wing, twin-engines and a side-by-side seating arrangement for its two crew.\n\nIt was the first of the USSR's aircraft to carry an integrated digital system.\nIt remains in service with the Russian Air Force, Ukrainian Air Force, Azerbaijan Air Force and various air forces to which it was exported."
+                android:text="@string/Su24"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

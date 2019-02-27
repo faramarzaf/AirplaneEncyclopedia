@@ -45,7 +45,7 @@
                 android:id="@+id/tv_ildb3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin DB-3, where DB stands for Dalniy Bombardirovschik\n(Russian: Дальний бомбардировщик)\nmeaning long-range bomber, was a\nSoviet bomber of World War II.\nIt was a twin-engine, low-wing monoplane that first flew in 1935."
+                android:text="@string/IlyushinDB3"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

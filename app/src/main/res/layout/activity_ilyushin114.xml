@@ -55,7 +55,7 @@
                 android:id="@+id/tv_il114"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-114\n(Russian Илью́шин Ил-114)\nis a Russian twin-engine turboprop airliner, designed for local routes.\nIntended to replace Antonov An-24,\nit first flew in 1990.\nA total of 20 Il-114s have been built.\nProduction of the Il-114 was temporarily suspended in July 2012, with the sixth and last aircraft delivered to Uzbekistan Airlines on 24 May 2013.\nIn 2016, the company stated that production would be restarted with\nall-Russian parts, with a new first\nflight in 2019 and the first aircraft in commercial service in 2021."
+                android:text="@string/Ilyushin114"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

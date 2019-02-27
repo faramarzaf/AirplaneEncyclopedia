@@ -53,7 +53,7 @@
                 android:id="@+id/textView41"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Mikoyan-Gurevich MiG-21\n-Russian: Микоян и Гуревич МиГ 21-\n-NATO reporting name: Fishbed-\nis a supersonic jet fighter and interceptor aircraft, designed by the Mikoyan-Gurevich Design Bureau in the Soviet Union."
+                android:text="@string/Mig21"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

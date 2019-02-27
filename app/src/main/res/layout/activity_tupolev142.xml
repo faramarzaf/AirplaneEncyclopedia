@@ -56,7 +56,7 @@
                 android:id="@+id/textView22"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-142\n(Russian: Туполев Ту-142)\n(NATO reporting name: Bear F/J)\nis a maritime reconnaissance and\nanti-submarine warfare (ASW) aircraft derived from the Tu-95 turboprop strategic bomber. "
+                android:text="@string/Tupolev142"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

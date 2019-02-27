@@ -45,7 +45,7 @@
                 android:id="@+id/textView7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Il-54 was a transonic bomber developed in the USSR in the 1950s.\nOnly two examples were built before\nthe project was abandoned.\nThe Council of Ministers issued a directive to OKB-115, for a transonic bomber prototype to be submitted for State Acceptance Trials in July 1954.\nThe design of this bomber went\nthrough several stages before settling\non the final configuration."
+                android:text="@string/Ilyushin54"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

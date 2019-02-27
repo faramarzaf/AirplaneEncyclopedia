@@ -56,7 +56,7 @@
                 android:id="@+id/textView23"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-134\n(NATO reporting name: Crusty)\nis a twin-engine, narrow-body,\njet airliner built in the Soviet Union from 1966 to 1989.\nThe original version featured a\nglazed-nose design and, like certain other Russian airliners\n(including its sister model the Tu-154), it can operate from unpaved airfields."
+                android:text="@string/Tupolev134"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

@@ -61,7 +61,7 @@
                 android:id="@+id/textView64"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Mil Mi-6\n(NATO reporting name Hook)\ngiven the article number\nizdeliye 50 and company designation V-6, was a Soviet/Russian heavy transport helicopter that was designed by the Mil design bureau.\nIt was built in large numbers for both military and civil roles."
+                android:text="@string/Mil6"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

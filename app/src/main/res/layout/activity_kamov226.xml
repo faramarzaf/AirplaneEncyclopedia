@@ -64,7 +64,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Kamov Ka-226 is a small,\ntwin-engine Russian utility helicopter.\nThe Ka-226 features an interchangeable mission pod, rather than a conventional cabin, allowing the use of various accommodation or equipment configurations.\nThe Ka-226 entered service in 2002.\nVariants of the Ka-226 have the NATO reporting name of Hoodlum."
+                android:text="@string/Kamov226"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

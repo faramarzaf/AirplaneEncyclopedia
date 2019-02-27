@@ -60,7 +60,7 @@
                 android:id="@+id/textView30"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Fokker F27 Friendship is a turboprop airliner developed and manufactured by the Dutch aircraft manufacturer Fokker.\nIt has the distinction of being the most numerous post-war aircraft to have been manufactured in the Netherlands; the F27 was also one of the most successful European airliners of its era."
+                android:text="@string/fokker27"
                 android:layout_margin="10dp"
                 android:textSize="18dp"
                 android:textColor="#000000"

@@ -62,7 +62,7 @@
                 android:id="@+id/textView65"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Mil Mi-8 (Russian: Ми-8)\n(NATO reporting name: Hip)\nis a medium twin-turbine helicopter, originally designed by the Soviet Union, and now produced by Russia.\n\nIn addition to its most common role as a transport helicopter, the Mi-8 is also used as an airborne command post, armed gunship, and reconnaissance platform.\n\nAlong with the related, more powerful Mil Mi-17, the Mi-8 is among the world's most-produced helicopters, used by over 50 countries.\nAs of 2015, it is the third most common operational military aircraft in the world."
+                android:text="@string/Mil8"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

@@ -60,7 +60,7 @@
                 android:id="@+id/textView30"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Fokker S-14 Mach trainer was a Dutch two-seater military training jet aircraft designed and manufactured by Fokker for the Royal Netherlands Air Force.\nDevelopment started in the late 1940s, and it was one of the first jet fighter training aircraft in the world, making\nits first flight on 19 May 1951 and entering service in 1955."
+                android:text="@string/fokkerS14"
                 android:layout_margin="10dp"
                 android:textSize="18dp"
                 android:textColor="#000000"

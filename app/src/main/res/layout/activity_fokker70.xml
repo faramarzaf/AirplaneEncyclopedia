@@ -61,7 +61,7 @@
                 android:id="@+id/textView30"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Fokker 70 is a narrow-body,\ntwin-engine, medium-range, turbofan regional airliner produced by Fokker as a smaller version of the Fokker 100.\n\nBoth the F70 and F100 were preceded by the first jet airliner manufactured by Fokker, the Fokker F28 Fellowship.\n\nSince its first flight in 1993, 47 aircraft, plus one prototype, have been manufactured and 23 are still in active service with airlines around the world."
+                android:text="@string/fokker70"
                 android:layout_margin="10dp"
                 android:textSize="18dp"
                 android:textColor="#000000"

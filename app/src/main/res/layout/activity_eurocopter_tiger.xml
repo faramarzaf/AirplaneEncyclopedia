@@ -58,7 +58,7 @@
                 android:id="@+id/textView96"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Eurocopter\n(now Airbus Helicopters) Tiger is a\nfour-bladed, twin-engine attack helicopter which first entered service in 2003.\nIt is manufactured by Eurocopter\n(now Airbus Helicopters), the successor company to Aerospatiale’s and DASA's respective helicopter divisions, which designate it as the EC665.\n\nFollowing their languages, in Germany it is known as the Tiger; in France and Spain it is called the Tiger.\n\nDevelopment of the Tiger started during the Cold War, and it was initially intended as an anti-tank helicopter platform to be used against a Soviet ground invasion of Western Europe."
+                android:text="@string/eurocopterTiger"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

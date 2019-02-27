@@ -61,7 +61,7 @@
                 android:id="@+id/textView20"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-124\n(NATO reporting name: Cookpot)\nwas a 56-passenger short-range twinjet airliner built in the Soviet Union."
+                android:text="@string/Tupolev124"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

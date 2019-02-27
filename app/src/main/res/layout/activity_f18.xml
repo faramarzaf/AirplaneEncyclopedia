@@ -55,7 +55,7 @@
                 android:id="@+id/textView33"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The McDonnell Douglas F/A-18 Hornet is a twin-engine, supersonic, all-weather, carrier-capable, multirole combat jet, designed as both a fighter and attack aircraft (hence the F/A designation).\n\nDesigned by McDonnell Douglas\n(now Boeing) and Northrop, the F/A-18 was derived from the latter's YF-17 in the 1970s for use by the United States Navy and Marine Corps."
+                android:text="@string/f18"
                 android:layout_margin="10dp"
                 android:textSize="18dp"
                 android:textColor="#000000"

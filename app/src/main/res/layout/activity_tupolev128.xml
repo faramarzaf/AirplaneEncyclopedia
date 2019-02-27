@@ -59,7 +59,7 @@
                 android:id="@+id/textView8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-28\n(NATO reporting name Fiddler)\nwas a long-range interceptor aircraft introduced by the Soviet Union in the 1960s.\nThe official designation was Tu-128, but this designation was less commonly used in the West.\nIt was the largest and heaviest fighter ever in service."
+                android:text="@string/Tupolev128"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

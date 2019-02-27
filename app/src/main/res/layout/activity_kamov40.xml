@@ -49,7 +49,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Kamov Ka-40 is reported to be \na new anti-submarine helicopter based on the Ka-27 and has been under development since 1990.\nThe design was based on and fit to replace the Ka-27 with a pointed streamlined nose.\nAlthough the Ka-40 was proposed for several civil and military roles, development was suspended in 1998."
+                android:text="@string/Kamov40"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

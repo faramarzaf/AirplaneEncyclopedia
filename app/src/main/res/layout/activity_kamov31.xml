@@ -57,7 +57,7 @@
                 android:id="@+id/textView52"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Kamov Ka-31\n(NATO reporting name 'Helix')\nis a military helicopter developed for\nthe Soviet Navy and currently in service in Russia, China and India in the naval airborne early warning and control role.\n\nAs with all Kamov helicopters except the Ka-60/-62 family, the Ka-31 has\nco-axially mounted contra-rotating main rotors.\n\nThe airframe of the Ka-31 is based on the Kamov Ka-27.\nOne visually distinctive feature of the Ka-31 is the large antenna of the\nearly-warning radar, which is either rotating or folded and stowed under\nthe fuselage.\nThe second is the reduction of the bulky electro-optical sensory suite beneath the cockpit.\nThe landing gear retracts in order to prevent interference with the radar."
+                android:text="@string/Kamov31"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

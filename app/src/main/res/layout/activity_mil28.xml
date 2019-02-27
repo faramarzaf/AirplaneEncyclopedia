@@ -61,7 +61,7 @@
                 android:id="@+id/textView62"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Mil Mi-28\n(NATO reporting name Havoc)\nis a Russian all-weather, day-night, military tandem, two-seat anti-armor attack helicopter.\nIt is an attack helicopter with no intended secondary transport capability, better optimized than the Mil Mi-24 gunship for the role.\nIt carries a single gun in an under nose barbette, plus external loads carried on pylons beneath stub wings."
+                android:text="@string/Mil28"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

@@ -47,7 +47,7 @@
                 android:id="@+id/textView11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-8 was a long-range variant of the Soviet Tupolev Tu-2 medium bomber that first flew after the end of World War II.\nIt was canceled when it proved to be unstable, structurally unsound and its generators were not strong enough to fully power its gun turrets.\nWith the advent of jet-powered bombers, Soviet military planners decided that it simply was not worth devoting the necessary resources to fix its numerous problems."
+                android:text="@string/Tupolev8"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

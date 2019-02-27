@@ -58,7 +58,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Sukhoi Su-27\n-Russian: Сухой Су-27-\n-NATO reporting name:\nFlanker is a twin-engine super maneuverable fighter aircraft designed by Sukhoi.\n\nIt was intended as a direct competitor for the large United States fourth-generation fighters such as the Grumman F-14 Tomcat and F-15 Eagle,\nwith3,530-kilometre range, heavy aircraft ordnance, sophisticated avionics and high maneuverability."
+                android:text="@string/Su27"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

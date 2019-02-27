@@ -60,7 +60,7 @@
                 android:id="@+id/textView66"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Mil Mi-2\n(NATO reporting name Hoplite)\nis a small, lightly armored \nurbine-powered transport helicopter that could also provide close\nair support when armed with\n57 mm rockets and a 23 mm cannon."
+                android:text="@string/Mil2"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

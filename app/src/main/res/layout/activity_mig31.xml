@@ -57,7 +57,7 @@
                 android:id="@+id/textView32"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Mikoyan MiG-31\n-Russian: Микоян МиГ 31-\n-NATO reporting name: Foxhound-\nis a supersonic interceptor aircraft developed for use by the Soviet Air Forces.\nThe aircraft was designed by the Mikoyan design bureau as a replacement for the earlier MiG-25 Foxbat; the MiG-31 is based on, and shares design elements with the MiG-25."
+                android:text="@string/Mig31"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

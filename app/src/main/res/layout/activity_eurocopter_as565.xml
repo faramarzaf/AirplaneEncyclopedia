@@ -53,7 +53,7 @@
                 android:id="@+id/textView91"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Eurocopter\n(now Airbus Helicopters) AS565 Panther is the military version of the Eurocopter AS365 Dauphin medium-weight\nmulti-purpose twin-engine helicopter.\n\nThe Panther is used for a wide range of military roles, including combat assault, fire support, anti-submarine warfare, anti-surface warfare, search and rescue, and medical evacuation (MEDEVAC)"
+                android:text="@string/eurocopterAS565"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

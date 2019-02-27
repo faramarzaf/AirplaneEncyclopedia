@@ -58,7 +58,7 @@
                 android:id="@+id/textView100"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The EADS HC-144 Ocean Sentry is a medium-range, twin-engine aircraft used by the United States Coast Guard in the search-and-rescue and maritime patrol missions.\n\nBased on the Airbus Military CN-235 it was procured as a Medium Range Surveillance Aircraft.\n\nThe HC-144 is supplied by Airbus Group, Inc.\nformerly EADS North America and is built in Spain by Airbus Military."
+                android:text="@string/c144"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

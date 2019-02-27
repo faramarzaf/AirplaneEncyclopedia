@@ -56,7 +56,7 @@
                 android:id="@+id/textView40"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Mikoyan-Gurevich MiG-23\n-Russian: Микоян и Гуревич МиГ 23-\n-NATO reporting name: Flogger-\nis a variable-geometry fighter aircraft, designed by the Mikoyan-Gurevich design bureau in the Soviet Union.\nIt is considered to belong to the Soviet third-generation jet fighter category, along with similarly aged Soviet\nfighters such as the MiG-25 Foxbat."
+                android:text="@string/Mig23"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

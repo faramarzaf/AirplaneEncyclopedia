@@ -45,7 +45,7 @@
                 android:id="@+id/tv_il112"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-112 is a high-wing light military transport aircraft being developed by Ilyushin Aviation Complex (JSC IL) for air landing and airdrop of military air cargoes, equipment and personnel.\nThe aircraft is being manufactured by Voronezh Aircraft Production Association."
+                android:text="@string/Ilyushin112"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

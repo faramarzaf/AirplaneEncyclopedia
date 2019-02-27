@@ -59,7 +59,7 @@
                 android:id="@+id/tv_tu4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-4\n(NATO reporting name: Bull)\nwas a piston-engine Soviet strategic bomber that served the Soviet Air Force from the late 1940s to mid-1960s.\nIt was a reverse-engineered copy of the American-made Boeing B-29 Super fortress."
+                android:text="@string/Tupolev4"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

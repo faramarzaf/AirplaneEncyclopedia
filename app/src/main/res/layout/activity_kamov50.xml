@@ -59,7 +59,7 @@
                 android:id="@+id/textView56"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Kamov Ka-50 Black Shark\n(Russian:Chornaya Akula)\n(NATO reporting name: Hokum A)\nis a single-seat Russian attack helicopter with the distinctive coaxial rotor system of the Kamov design bureau.\nIt was designed in the 1980s and\nadopted for service in the Russian\narmy in 1995.\nIt is manufactured by the Progress company in Arsenyev.\nIt is used as a heavily armed helicopter.\nIt is the world's first operational helicopter with a rescue ejection system. "
+                android:text="@string/Kamov50"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

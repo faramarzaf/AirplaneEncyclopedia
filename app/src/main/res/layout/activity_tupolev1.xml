@@ -48,7 +48,7 @@
                 android:id="@+id/tv_tu1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-1 was a prototype Soviet night fighter variant of the Tupolev Tu-2 medium bomber that first flew after the end of World War II.\nIt was cancelled when its experimental Mikulin AM-43V engines reached the end of their service life."
+                android:text="@string/Tupolev1"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

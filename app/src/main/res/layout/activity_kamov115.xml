@@ -61,7 +61,7 @@
                 android:id="@+id/textView4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Kamov Ka-115 Moskvichka\nis a light multi-purpose helicopter designed for many uses, including passenger and cargo transportation, emergency service, SAR and patrol, or charter flights."
+                android:text="@string/Kamov115"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

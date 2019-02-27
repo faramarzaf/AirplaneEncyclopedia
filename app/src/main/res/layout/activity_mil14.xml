@@ -61,7 +61,7 @@
                 android:id="@+id/textView58"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Mil Mi-14\n(Russian: Миль Ми-14)\n(NATO reporting name: Haze)\nis a Soviet shore-based\nnuclear-capable amphibious\nanti-submarine helicopter derived\nfrom the earlier Mi-8."
+                android:text="@string/Mil14"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

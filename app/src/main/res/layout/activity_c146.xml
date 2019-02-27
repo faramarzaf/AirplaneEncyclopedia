@@ -58,7 +58,7 @@
                 android:id="@+id/textView101"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Dornier 328 is a turboprop-powered commuter airliner.\nInitially produced by Dornier Luftfahrt GmbH, the firm was acquired in 1996 by Fairchild Aircraft.\nThe resulting firm, named\nFairchild-Dornier,\nmanufactured the 328 family in Oberpfaffenhofen, Germany, conducted sales from San Antonio, Texas, United States, and supported the product line from both locations.\n\nThere is also a jet-powered version of the aircraft, the Fairchild Dornier 328JET."
+                android:text="@string/c146"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

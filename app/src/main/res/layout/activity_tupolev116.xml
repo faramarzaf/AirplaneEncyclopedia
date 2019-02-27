@@ -47,7 +47,7 @@
                 android:id="@+id/textView19"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-116\n(Russian: Tyполев Тy-116)\nis a turboprop-powered long-range airliner designed by the Tupolev design bureau and built in the USSR."
+                android:text="@string/Tupolev116"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

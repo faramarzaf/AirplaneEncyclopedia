@@ -55,7 +55,7 @@
                 android:id="@+id/tv_tu22"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-22\n(NATO reporting name: Blinder)\nwas the first supersonic bomber to\nenter production in the Soviet Union.\nManufactured by Tupolev, the Tu-22 entered service with the Soviet military in the 1960s.\nThe last examples were retired during the 1990s.Tu-22s were sold to other nations, including Libya and Iraq.\nThe Tu-22 was one of the few Soviet bombers to see combat; Libyan Tu-22s were used against Tanzania and Chad, and Iraqi Tu-22s were used during the Iran–Iraq War. "
+                android:text="@string/Tupolev22"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

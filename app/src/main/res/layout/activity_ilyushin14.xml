@@ -56,7 +56,7 @@
                 android:id="@+id/tv_il14"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-14\n(NATO reporting name: Crate)\nwas a Soviet twin-engine commercial\nand military personnel and cargo transport aircraft that first flew in 1950, and entered service in 1954.\nIl-14 was also manufactured in East Germany by VVB Flugzeugbau, in Czechoslovakia as the Avia 14.\nThe Ilyushin Il-14 was typically replaced by the Antonov An-24 and Yakovlev Yak-40."
+                android:text="@string/Ilyushin14"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

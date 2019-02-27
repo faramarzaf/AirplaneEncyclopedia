@@ -58,7 +58,7 @@
                 android:id="@+id/textView16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-104\n(NATO reporting name: Camel)\nwas a twinjet medium-range\nnarrow-body turbojet-powered Soviet airliner.\nIt was the second to enter in regular service, behind the British\n*de Havilland Comet* and was the sole jetliner\noperating in the world from 1956 to\n1958, when the British jetliner was grounded due to safety matters."
+                android:text="@string/Tupolev104"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

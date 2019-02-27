@@ -62,7 +62,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Kamov Ka-35\n(or Ka-31SV/Ka-252SV) is the newest Russian early warning radar-carrying rotary-wing aircraft.\nThe Ka-35 has passed all tests and has been authorized for service.\nIt is equipped with a rotating laterally oriented antenna of the L381 complex.\nIn late October 2016, the helicopter was deployed to Syria."
+                android:text="@string/Kamov35"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

@@ -56,7 +56,7 @@
                 android:id="@+id/tv_il28"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-28\n-Russian: Илью́шин Ил-28\n-NATO reporting name: Beagle-\nis a jet bomber of the immediate\npostwar period that was originally manufactured for the Soviet Air Forces.\nIt was the Soviet Union's first such aircraft to enter large-scale production.\nIt was also licence-built in China as the Harbin H-5. "
+                android:text="@string/Ilyushin28"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

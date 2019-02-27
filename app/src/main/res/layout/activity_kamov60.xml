@@ -58,7 +58,7 @@
                 android:id="@+id/textView57"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Kamov Ka-60/62 Kasatka\n(Russian:  Касатка: Killer whale)\nis a Russian helicopter that first flew on 24 December 1998."
+                android:text="@string/Kamov60"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

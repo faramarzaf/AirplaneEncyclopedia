@@ -56,7 +56,7 @@
                 android:id="@+id/textView25"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-154\n(Russian: Tyполев Ту-154)\n(NATO reporting name: Careless)\nis a three-engine medium-range\nnarrow-body airliner designed in the mid-1960s and manufactured by Tupolev."
+                android:text="@string/Tupolev154"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

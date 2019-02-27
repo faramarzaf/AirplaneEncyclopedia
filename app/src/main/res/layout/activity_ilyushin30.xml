@@ -46,7 +46,7 @@
                 android:id="@+id/tv_il30"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-30 was a Soviet\nturbojet-powered tactical bomber designed as a higher-performance,\nswept wing version of the Ilyushin\nIl-28, in the late 1940s.\nIts thin wing and engine nacelles necessitated the use of tandem landing gear, the first Soviet aircraft to do so.\nIt was apparently canceled before the prototype made its first flight, although sources disagree with this."
+                android:text="@string/Ilyushin30"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

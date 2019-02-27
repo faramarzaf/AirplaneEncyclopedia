@@ -45,7 +45,7 @@
                 android:id="@+id/tv_il12"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-12\n(NATO reporting name: Coach)\nwas a Soviet twin-engine cargo aircraft, developed in the mid-1940s for small and medium-haul airline routes and as a military transport."
+                android:text="@string/Ilyushin12"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

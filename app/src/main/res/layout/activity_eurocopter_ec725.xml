@@ -55,7 +55,7 @@
                 android:id="@+id/textView93"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Eurocopter EC725 Caracal\n*now called Airbus Helicopters H225M*\nis a long-range tactical transport military helicopter developed from the Eurocopter AS532 Cougar for military use.\nIt is a twin-engine aircraft and can carry up to 29 seated troops along with two crew, depending on customer configuration.\n\nThe helicopter is marketed for troop transport, casualty evacuation, and combat search and rescue duties, and is similar to the civilian EC225."
+                android:text="@string/eurocopterEC725"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

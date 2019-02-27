@@ -57,7 +57,7 @@
                 android:id="@+id/textView29"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Tupolev Tu-334\n(Russian: Туполев Ту-334)\nwas a Russian short-to-medium range airliner project that was developed to replace the ageing Tu-134s and Yak-42s\nin service around the world.\nThe airframe was based on a shortened Tu-204 fuselage and a scaled-down version of that aircraft's wing. "
+                android:text="@string/Tupolev334"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

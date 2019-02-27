@@ -55,7 +55,7 @@
                 android:id="@+id/tv_il76"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-76\n-Russian: Илью́шин Ил-76-\n-NATO reporting name: Candid-\nis a multi-purpose four-engine turbofan strategic airlifter designed by the Soviet Union's Ilyushin design bureau.\nIt was first planned as a commercial freighter in 1967, as a replacement\nfor the Antonov An-12.\nIt was designed to deliver heavy machinery to remote, poorly served areas.\nMilitary versions of the Il-76 have been widely used in Europe, Asia and Africa, including use as an aerial refueling tanker or command center."
+                android:text="@string/Ilyushin76"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

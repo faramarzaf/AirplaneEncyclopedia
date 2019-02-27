@@ -58,7 +58,7 @@
                 android:id="@+id/textView99"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Beechcraft C-12 Huron is the military designation for\na series of twin-engine turboprop aircraft based on the Beechcraft Super King Air and Beechcraft 1900.\n\nC-12 variants are used by the United States Air Force, United States Army, United States Navy and United States Marine Corps.\n\nThese aircraft are used for various duties, including embassy support, medical evacuation, as well as passenger and light cargo transport.\nSome aircraft are modified with surveillance systems for various missions, including the Cefly Lancer, RC-12 Guardrail and Project Liberty programs."
+                android:text="@string/c12"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

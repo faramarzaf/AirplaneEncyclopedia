@@ -48,7 +48,7 @@
                 android:id="@+id/tv_il96"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-96\n(Russian: Илью́шин Ил-96)\nis a Russian four-engine\nlong-haul wide-body airliner designed\nby Ilyushin in the former Soviet Union and manufactured by the Voronezh Aircraft Production Association\nin Russia.\nIt is powered by four Aviadvigatel PS-90 two-shaft turbofan engines."
+                android:text="@string/Ilyushin96"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

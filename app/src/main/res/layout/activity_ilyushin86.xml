@@ -57,7 +57,7 @@
                 android:id="@+id/tv_il86"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Ilyushin Il-86-\nRussian: Илью́шин Ил-86-\n-NATO reporting name: Camber-\nis a short/medium-range wide-body jet airliner.\nIt was the USSR's first wide-body and\nthe world's second four-engine wide-body.\nDesigned and tested by the Ilyushin design bureau in the 1970s, it was certified by the Soviet aircraft\nindustry, manufactured and marketed\nby the USSR."
+                android:text="@string/Ilyushin86"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"
