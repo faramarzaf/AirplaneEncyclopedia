@@ -63,7 +63,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Antonov An-12\nRussian: Антонов Ан-12-\n-NATO reporting name: Cub-\nis a four-engine turboprop transport aircraft designed in the Soviet Union.\nIt is the military version of the Antonov An-10 and has many variants."
+                android:text="@string/antonov12"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

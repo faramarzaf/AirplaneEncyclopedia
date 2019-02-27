@@ -56,7 +56,7 @@
                 android:id="@+id/tv_b777_x"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Boeing 777X is a new series of the long-range wide-body twin-engine Boeing 777 family that is under development by Boeing Commercial Airplanes.\n\nThe 777X is to feature GE9X new engines, new composite wings with folding wingtips, a denser cabin, and technologies from the Boeing 787.\n\nThe 777X series was launched in November 2013 with two variants:\nthe 777-8 and the 777-9."
+                android:text="@string/boeing777_x"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

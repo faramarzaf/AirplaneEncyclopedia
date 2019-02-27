@@ -56,7 +56,7 @@
                 android:id="@+id/textView98"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Bell 47J Ranger is an American single-engine single-rotor light helicopter manufactured by Bell Helicopter.\nIt was an executive variant of\nthe highly successful Bell 47 and was\nthe first helicopter to carry a United States president."
+                android:text="@string/bell47J"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

@@ -58,7 +58,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Bell 47 is a single rotor single engine light helicopter manufactured by Helicopter.\n\nIt was based on the third Bell 30 prototype, which was the company's first helicopter designed by Arthur M. Young.\n\nThe 47 became the first helicopter certified for civilian use on 8 March 1946.\nMore than 5,600 Bell 47s were produced, including those under license by Agusta in Italy, Kawasaki Heavy Industries in Japan, and Westland Aircraft in the United Kingdom.\n\nThe Bell 47J Ranger is a modified\nversion with a fully enclosed cabin and fuselage."
+                android:text="@string/bell47"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

@@ -58,7 +58,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Bell 430 is an American twin-engine light-medium helicopter built by Bell Helicopter.\nIt is a stretched and more powerful development of the Bell 230, which, in turn, was based on the earlier Bell 222."
+                android:text="@string/bell403"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

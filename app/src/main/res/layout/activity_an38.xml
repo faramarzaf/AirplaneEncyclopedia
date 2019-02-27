@@ -61,7 +61,7 @@
                 android:id="@+id/tv_an38"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-38 is a stretched and upgraded version of Antonov's earlier An-28. It is a twin-engine turboprop transport aircraft, designed by the Antonov Design Bureau in Kiev, Ukraine.\nProduction is in Novosibirsk, Russia, but some crucial parts are also made in Ukraine and Belarus. "
+                android:text="@string/antonov38"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

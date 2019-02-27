@@ -58,7 +58,7 @@
                 android:id="@+id/tv_b737_original"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Boeing 737 is a short- to \nmedium-range twin-jet narrow-body airliner developed and manufactured by Boeing Commercial Airplanes in the United States.\nOriginally developed as a shorter,\nlower-cost twin-engine airliner derived from the 707 and 727, the 737 has developed into a family of ten passenger models with capacities from 85 to 215 passengers.\nIt was immediately realized that most airlines wanted a slightly higher passenger load, to which Boeing responded with the 737-200.\nTwo sections were added to the fuselage."
+                android:text="@string/boeing737_original"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

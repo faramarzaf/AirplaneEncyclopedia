@@ -58,7 +58,7 @@
                 android:id="@+id/tv_an14"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-14 Pchelka\n-Russian: «Пчелка», Little Bee-\nNATO reporting name Clod-\nis a Soviet utility aircraft which was first flown on 15 March 1958.\nIt was a twin-engine light STOL utility transport, with two 300 hp Ivchenko AI-14RF radial piston engines.\nSerial production started in 1966, and about 300 examples were built by the time production ended in 1972.\nThe An-14 failed to replace the more successful An-2 biplane, which was manufactured until 1990,\n(the An-2 is still manufactured on special order)."
+                android:text="@string/antonovA14"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

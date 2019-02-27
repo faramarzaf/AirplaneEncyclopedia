@@ -66,7 +66,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Airbus A330 is a\nmedium-to long-range wide-body\ntwin-engine jet airliner made by Airbus.\nVersions of the A330 have a range of\n5,000 to 13,430 kilometers and can accommodate up to 335 passengers in a two-class layout or carry 70 tons of cargo."
+                android:text="@string/airbusA330"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

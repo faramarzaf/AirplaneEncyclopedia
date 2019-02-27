@@ -55,7 +55,7 @@
                 android:id="@+id/tv_b747"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Boeing 747 is an American wide-body commercial jet airliner and cargo aircraft, often referred to by its original nickname, Jumbo Jet.\nIts distinctive hump upper deck along the forward part of the aircraft has made it one of the most recognizable aircraft, and it was the first wide-body airplane produced.\nManufactured by Boeing's Commercial Airplane unit in the United States, the 747 was originally envisioned to have 150 percent greater capacity than the Boeing 707, a common large commercial aircraft of the 1960s"
+                android:text="@string/boeing747"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

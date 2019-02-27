@@ -64,7 +64,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Airbus A350 XWB is a family of\nlong-range, twin-engine wide-body jet airliners developed by European aerospace manufacturer Airbus.\nThe A350 is the first Airbus aircraft with both fuselage and wing structures made primarily of carbon fiber reinforced polymer.\n\nIts variants seat 280 to 366 passengers in typical three-class seating layouts.\n\nThe A350 is positioned to succeed the A340 and to compete with the Boeing 787 and 777."
+                android:text="@string/airbusA350"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

@@ -56,7 +56,7 @@
                 android:id="@+id/tv_b737_classic"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Boeing 737 Classic refers to the 300/400/500 series of the Boeing 737.\nIt is the second-generation derivative of the 737, following the original 100/200 models that began production in 1966.\n\nThey are short- to medium-range, narrow-body jet airliners.\nProduced by Boeing Commercial Airplanes from 1984 to 2000, the 737 Classic includes three variants and can seat between 145 and 188 passengers.\n\nImprovements over the previous generation of 737 aircraft included CFM International CFM56 high-bypass-ratio turbofan engines, upgraded avionics, and increased passenger capacity\n(in the 300/400 models)."
+                android:text="@string/boeing737_classic"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

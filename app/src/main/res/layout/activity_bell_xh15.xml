@@ -46,7 +46,7 @@
                 android:id="@+id/textView89"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Bell XH-15\n(Bell Model 54) was an American\nfour-seat utility helicopter designed\nand built by Bell Helicopter, to meet a requirement for a liaison and utility helicopter for the United States Army and United States Air Force."
+                android:text="@string/BellXH15"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

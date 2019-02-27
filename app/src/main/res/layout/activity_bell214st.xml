@@ -57,7 +57,7 @@
                 android:id="@+id/textView75"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Bell 214ST is a medium-lift,\ntwin-engine helicopter descended from Bell Helicopter's ubiquitous UH-1 Huey series.\nThough it shares a type number with the somewhat-related Bell 214, the 214ST is larger and of quite different appearance."
+                android:text="@string/bell214ST"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

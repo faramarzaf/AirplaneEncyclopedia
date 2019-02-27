@@ -66,7 +66,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Airbus A340 is a long-range,\nfour-engine, wide-body commercial passenger jet airliner that was\ndeveloped and produced by the\nEuropean aerospace company Airbus.\nThe A340 was assembled in Toulouse, France.\nIt seats up to 375 passengers in the standard variants and 440 in the stretched 600 series.\nDepending on the model, it has a range\nof 6,700 to 9,000 nautical miles\n(12,400 to 16,700 km; 7,700 to 10,400 mi).\n\nIts distinguishing features are four\nhigh-bypass turbofan engines and\nthree-bogie main landing gear.\nLaunch customers Lufthansa and Air France placed the A340 into service in March 1993.\nThe most common type was\nthe A340-300 model, with 218 aircraft delivered.\n‹Lufthansa› is the biggest operator of the A340, having acquired 59 aircraft."
+                android:text="@string/airbusA340"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

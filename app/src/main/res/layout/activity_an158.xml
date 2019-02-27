@@ -54,7 +54,7 @@
                 android:id="@+id/tv_158"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-158 is a stretched fuselage version of the aircraft, accommodating up to 100 passengers.\nFollowing a crash in February 2018, which is still under investigation, all An-148 and An-158 in Russia were grounded by the Russian Ministry of Transport."
+                android:text="@string/antonov158"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

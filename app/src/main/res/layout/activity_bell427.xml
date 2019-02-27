@@ -55,7 +55,7 @@
                 android:id="@+id/textView78"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Bell 427 is a twin-engine, multirole, light utility helicopter designed and manufactured by Bell Helicopter and Samsung Aerospace Industries.\nIts design is based on the Bell 407. It has been replaced in production by the lengthened Bell 429."
+                android:text="@string/bell427"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

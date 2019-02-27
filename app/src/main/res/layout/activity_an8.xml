@@ -62,7 +62,7 @@
                 android:id="@+id/tv_an8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="In December 1951, OKB-153 initiated the design of a twin-engine assault transport aircraft, designated DT-5/8\n(Desahntno-Trahnsportnyy [samolyot] – assault transport aircraft), to be powered by two Kuznetsov TV-2 turboprop engines, and fitted with a large rear cargo door to allow vehicles to be driven straight into the hold."
+                android:text="@string/antonov8"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

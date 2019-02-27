@@ -57,7 +57,7 @@
                 android:id="@+id/textView74"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Bell 222 is an American twin-engine light helicopter built by Bell Helicopter.\nThe Bell 230 is an improved development with different engines and other minor changes.\nA cosmetically modified version of the 222 was used as the titular aircraft in the American television series Airwolf."
+                android:text="@string/bell222"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

@@ -59,7 +59,7 @@
                 android:id="@+id/tv_b717"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Boeing 717 is a twin-engine,\nsingle-aisle jet airliner, developed for the 100-seat market.\nThe airliner was designed and originally marketed by McDonnell Douglas as the MD-95, a derivative of the DC-9 family.\nCapable of seating up to 134 passengers, the 717 has a design range of 2,060 nautical miles (3,815 km).\nIt is powered by two Rolls-Royce BR715 turbofan engines mounted at the rear of the fuselage."
+                android:text="@string/boeing717_200"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

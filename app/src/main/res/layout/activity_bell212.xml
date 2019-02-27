@@ -57,7 +57,7 @@
                 android:id="@+id/textView72"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Bell 212\n(also known as the Twin Two-Twelve)\nis a two-blade, twin-engine, medium helicopter that first flew in 1968.\n\nOriginally manufactured by Bell Helicopter in Fort Worth, Texas, United States, production was moved to Mirabel, Quebec, Canada in 1988, along with all Bell commercial helicopter production after that plant opened in 1986.\n\nThe 212 is marketed to civilian operators and has a fifteen-seat configuration, with one pilot and fourteen passengers.\n\nIn cargo configuration the 212 has an internal capacity of 220 ft³ (6.23 m³).\nAn external load of up to 5,000 lb (2,268 kg) can be carried."
+                android:text="@string/bell212"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

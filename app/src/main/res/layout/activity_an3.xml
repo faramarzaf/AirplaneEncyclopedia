@@ -62,7 +62,7 @@
                 android:id="@+id/tv_an3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-3 is a Soviet\n(later Ukrainian and Russian) civil multipurpose and agricultural aircraft.\nIt is essentially a turboprop-powered development of the An-2, designed to upgrade or replace it.\nThe first example flew as early as\nMay 13, 1980, but because of a lack of official interest in the project, work proceeded very slowly.\nFlight testing was not complete until 1991.\nIt is one of the few turbine-powered biplane designs to date."
+                android:text="@string/antonov3"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

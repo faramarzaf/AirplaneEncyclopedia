@@ -62,7 +62,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Airbus A380 is a double-deck,\nwide-body,four-engine jet airliner manufactured by European manufacturer Airbus.\nIt is the world's largest passenger airliner, and the airports at which it operates have upgraded facilities to accommodate it.\n\nThe A380 made its first flight on 27 April 2005 and entered commercial service on 25 October 2007 with Singapore Airlines.\n\nAn improved version, the A380plus, is under development.\n\n‹Emirates› is the biggest A380 customer with 162 ordered of which 103 have been delivered."
+                android:text="@string/airbusA380"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

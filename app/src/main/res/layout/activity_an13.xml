@@ -62,7 +62,7 @@
                 android:id="@+id/tv_an13"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov A-13 was a Soviet aerobatic sailplane flown in the 1950s and 1960s.\nIt was a small, single-seat, all-metal aircraft developed from the A-11which could optionally be fitted with that aircraft's longer-span wings.\nIt was a mid-wing monoplane with a tadpole-like fuselage and a V-tail.In February 1962, an A-13 was fitted with a small turbojet engine to set a world airspeed record of 196 km/h (122 mph) for an aircraft weighing up to 500 kg.\nThis jet-powered version was known as the An-13"
+                android:text="@string/antonovA13"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

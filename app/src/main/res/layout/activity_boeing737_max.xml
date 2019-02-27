@@ -60,7 +60,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Boeing 737 MAX is an American narrow-body aircraft series designed\nand produced by Boeing Commercial Airplanes as the fourth generation of\nthe Boeing 737, succeeding the Boeing\n737 Next Generation (NG)."
+                android:text="@string/boeing737_max"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

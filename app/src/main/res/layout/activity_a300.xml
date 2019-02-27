@@ -54,7 +54,7 @@
                 android:background="@drawable/background_styles_general_text"
                 android:fontFamily="monospace"
                 android:gravity="center"
-                android:text="General explanation"
+                android:text="@string/general_explanation"
                 android:textColor="#ffffff"
                 android:textSize="15.2dp"
                 android:textStyle="italic" />
@@ -68,7 +68,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Airbus A300 is a wide-body twin engine jet airliner that was developed\nand manufactured by Airbus.\n\nFormally announced in 1969 and first flying in October 1972, it holds the distinction of being the world's first\ntwin-engined widebody airliner; it was also the first product of Airbus Industrie, a consortium of European aerospace manufacturers, now a subsidiary of Airbus.\n\nThe A300 can typically seat 266 passengers in a two-class layout, with a maximum range of 4,070 nautical miles (7,540 km) when fully loaded, depending on model.\n\nDevelopment of the A300 began during the 1960s as a European collaborative project between various aircraft manufacturers in the United Kingdom, France, and West Germany."
+                android:text="@string/airbusA300"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"
@@ -94,7 +94,7 @@
                     android:background="@drawable/background_styles_general_text"
                     android:fontFamily="monospace"
                     android:gravity="center"
-                    android:text="General characteristics"
+                    android:text="@string/general_characteristics"
                     android:textColor="#ffffff"
                     android:textSize="15.2dp"
                     android:textStyle="italic" />

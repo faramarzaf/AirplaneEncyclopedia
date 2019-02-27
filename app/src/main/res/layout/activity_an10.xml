@@ -59,7 +59,7 @@
                 android:id="@+id/tv_an10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-10 (Russian: Антонов Ан-10; NATO reporting name: Cat) was a four-engine turboprop passenger transport aircraft designed in the Soviet Union."
+                android:text="@string/antonov10"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

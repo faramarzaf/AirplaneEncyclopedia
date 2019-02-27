@@ -62,7 +62,7 @@
                 android:id="@+id/tv_an70"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-70\n(Ukrainian: Антонов Ан-70) is a\nfour-engine medium-range transport aircraft, and the first aircraft to take flight powered only by prop fan engines.\n\nIt was developed in the late 1980s by the Antonov Design Bureau to replace the obsolete An-12 military transport aircraft. "
+                android:text="@string/antonov70"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

@@ -55,7 +55,7 @@
                 android:id="@+id/tv_an148"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-148\n(Ukrainian: Антонов Ан-148) is a regional jet designed and built by Antonov of Ukraine. Until 2017, it was also built by Russia's Voronezh Aircraft Production Association. "
+                android:text="@string/antonov148"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

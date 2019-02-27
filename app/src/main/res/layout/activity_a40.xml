@@ -56,7 +56,7 @@
                 android:id="@+id/tv_a40"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov A-40 Krylya Tanka\n(Russian: крылья танка, meaning tank wings),was a Soviet attempt to allow a tank to glide onto a battlefield after being towed aloft by an airplane, to support airborne forces or partisans.\n\nA prototype was built and tested in 1942, but was found to be unworkable.\n\nThis vehicle is sometimes called the A-40T or KT."
+                android:text="@string/antonovA40"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

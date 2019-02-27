@@ -55,7 +55,7 @@
                 android:id="@+id/tv_b747_8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Boeing 747-8 is a wide-body jet airliner developed by Boeing Commercial Airplanes.\nIt was officially announced in 2005.\nThe 747-8 is the third generation of the 747, with a lengthened fuselage, redesigned wings, new engines, and improved efficiency.\nThe 747-8 is the largest 747 version, the largest commercial aircraft built in the United States, and the longest passenger aircraft in the world. "
+                android:text="@string/boeing747_8"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

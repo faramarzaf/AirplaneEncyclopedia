@@ -59,7 +59,7 @@
                 android:id="@+id/tv_an26"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-26\n(NATO reporting name: Curl) is a\ntwin-engine turboprop civilian and military transport aircraft, designed and produced in the Soviet Union from 1969 to 1986. "
+                android:text="@string/antonov26"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

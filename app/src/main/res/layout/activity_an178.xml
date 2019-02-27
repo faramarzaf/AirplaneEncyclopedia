@@ -58,7 +58,7 @@
                 android:id="@+id/tv_an178"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-178\n(Ukrainian: Антонов Ан-178) is a\nshort-range medium-airlift military transport aircraft designed by the Ukrainian Antonov company and based on the Antonov An-158 (An-148-200).\n\nIt was announced on 5 February 2010, rolled out on 16 April 2015 and the first flight was on 7 May 2015.\nThe An-178 is proposed to replace outdated aircraft like the Antonov\nAn-12, An-26 and An-32."
+                android:text="@string/antonov178"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

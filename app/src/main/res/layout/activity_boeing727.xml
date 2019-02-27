@@ -57,7 +57,7 @@
                 android:id="@+id/tv_b727"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Boeing 727 is a midsized, narrow-body three-engine jet aircraft built by Boeing Commercial Airplanes from the early 1960s to 1984.\nIt can carry 149 to 189 passengers and later models can fly up to 2,700 nautical miles (5,000 km) nonstop.\nIntended for short and medium-length flights, the 727 can use relatively short runways at smaller airports.\nIt has three Pratt and Whitney JT8D engines below the T-tail, one on each side of the rear fuselage with a center engine that connects through an S-duct to an inlet at the base of the fin.\nThe 727 is Boeing's only tree jet aircraft."
+                android:text="@string/boeing727"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

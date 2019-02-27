@@ -58,7 +58,7 @@
                 android:id="@+id/textView83"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Bell 525 Relentless is an American medium-lift helicopter, under development by Bell Helicopter.\n\nThe Bell 525 was unveiled at the 2012 Heli-Expoin Dallas, Texas in February 2012.\nThe helicopter first flew on 1 July 2015. It is designed to transport up to 19 passengers."
+                android:text="@string/bell525"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

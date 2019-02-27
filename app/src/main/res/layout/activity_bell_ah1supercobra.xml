@@ -57,7 +57,7 @@
                 android:id="@+id/textView84"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Bell AH-1 SuperCobra is a\ntwin-engine attack helicopter based on the United States Army's single-engine AH-1 Cobra.\nThe twin Cobra family, itself part of the larger Huey family, includes the AH-1J SeaCobra, the AH-1T Improved SeaCobra, and the AH-1W SuperCobra.\n\nThe AH-1W, the backbone of the United States Marine Corps's attack helicopter fleet for decades, is being replaced by the next generation Bell AH-1Z Viper."
+                android:text="@string/bellAH1supercobra"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

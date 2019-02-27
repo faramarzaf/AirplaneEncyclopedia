@@ -57,7 +57,7 @@
                 android:id="@+id/textView9"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-28\n(NATO reporting name Cash)\nis a twin-engine light turboprop\ntransport aircraft, developed from the Antonov An-14M.\nIt was the winner of a competition against the Beriev Be-30, for use by Aeroflot as a short-range airliner.\nIt first flew in 1969.\nA total of 191 were built and 16 remain in airline service as at August 2015."
+                android:text="@string/antonov28"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

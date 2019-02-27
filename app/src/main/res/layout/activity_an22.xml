@@ -63,7 +63,7 @@
                 android:id="@+id/tv_an22"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-22 Antei\n-Ukrainian: Ан-22 Антей-\nAn-22 Antej -English Antheus-\n(NATO reporting name Cock) is a heavy military transport aircraft designed by the Antonov Design Bureau in the Soviet Union.\nPowered by four turboprop engines each driving a pair of contra-rotating propellers, the design was the first Soviet wide-body aircraft and remains the world's largest turboprop-powered aircraft to date.\nThe An-22 first appeared publicly outside the Soviet Union at the 1965 Paris Air Show.\nSince then, the model has seen extensive use in major military and humanitarian airlifts for the Soviet Union."
+                android:text="@string/antonov22"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

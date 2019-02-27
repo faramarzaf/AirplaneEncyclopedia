@@ -58,7 +58,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Bell 429 GlobalRanger is a light, twin-engine helicopter developed by\nBell Helicopter and Korea Aerospace Industries, based on the Bell 427.\n\nFirst flight of the Bell 429 prototype took place on February 27, 2007, and the aircraft received type certification on July 1, 2009.\nThe Bell 429 is capable of single-pilot IFR and Runway Category A operations."
+                android:text="@string/bell429"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

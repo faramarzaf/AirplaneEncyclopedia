@@ -63,7 +63,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Antonov An-50 was a planned Soviet airliner with four turbojets.\nIt was planned by Antonov in the first part of the 1970s.\nThe aircraft was never built.\nThe plans were complete in 1972, but nothing had been built.\nThere was no prototype.\nIt was planned to weigh 24600 kg gross, and it would have had a 490 km/h speed at 9400 m altitude."
+                android:text="@string/antonov50"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

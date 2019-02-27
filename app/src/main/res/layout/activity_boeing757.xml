@@ -56,7 +56,7 @@
                 android:id="@+id/tv_b757"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Boeing 757 is a mid-size,\nnarrow-body twin-engine jet airliner that was designed and built by Boeing Commercial Airplanes.\nIt is the manufacturer's largest single-aisle passenger aircraft and was produced from 1981 to 2004.\nThe twin-jet has a two-crew member glass cockpit, turbofan engines of sufficient power to allow takeoffs from relatively short runways and higher altitudes, a conventional tail and, for reduced aerodynamic drag, a super critical wing design."
+                android:text="@string/boeing757"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

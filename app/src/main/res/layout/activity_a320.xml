@@ -69,7 +69,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Airbus A320 family consists of\nshort- to medium-range, narrow-body, commercial passenger twin-engine jet airliners manufactured by Airbus.\n\nFinal assembly of the family takes place in Toulouse, France, and Hamburg, Germany.\n\nThe first member of the A320\nfamily-of the A320-was launched in March 1984, first flew on 22 February 1987, and was first delivered in March 1988 to launch customer Air France.\n\nAs of 31 March 2018, a total of 8,074 Airbus A320-family aircraft have been delivered, of which 7,722 are in service.\n\nIn December 2010, Airbus announced a new generation of the A320 family, the A320neo (new engine option).\nThe A320neo offers new, more efficient engines, combined with airframe improvements and the addition of winglets, named Sharklets by Airbus."
+                android:text="@string/airbusA320"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

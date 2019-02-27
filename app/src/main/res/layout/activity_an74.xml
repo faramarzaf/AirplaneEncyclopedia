@@ -62,7 +62,7 @@
                 android:id="@+id/tv_an74"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-74\n(NATO reporting name: Coaler) is a\nSoviet/Ukrainian transport aircraft, developed by Antonov.\nIt is a variant of the An-72.The An-72 and An-74 get their nickname, Cheburashka, from the large engine intake ducts, which resemble the oversized ears of the popular Soviet animated character of the same name."
+                android:text="@string/antonov74"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

@@ -64,7 +64,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Airbus A321 is a member of the Airbus A320 family of\nshort- to medium-range, narrow-body, commercial passenger twin-engine jet airliners manufactured by Airbus.\nIt was the first derivative of the baseline Airbus A320 aircraft, and carries up to 236 passengers with a maximum range\nof 5,900 km.\n\nFinal assembly of the aircraft takes\nplace in Hamburg, Germany, or Mobile, Alabama.\nAs of 31 December 2017, a total of 1,636 Airbus A321 aircraft have been\ndelivered, of which 1,618 are in service."
+                android:text="@string/airbusA321"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

@@ -60,7 +60,7 @@
                 android:id="@+id/textView85"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Bell R-12\n(later predesignated H-12)\n(company Model 48) was an American 1940s military utility helicopter built by the Bell Helicopter company."
+                android:text="@string/bellH12"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

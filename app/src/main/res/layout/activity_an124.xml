@@ -55,7 +55,7 @@
                 android:id="@+id/tv_an124"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-124 Russian\n(Ukrainian: Антонов Ан-124 Руслан)\n(NATO reporting name: Condor) is a strategic airlift jet aircraft.\nIt was designed in the 1980s by the Antonov design bureau in the Ukrainian SSR, then part of the Soviet Union (USSR).\nUntil the Boeing 747-8F, the An-124 was, for thirty years, the world's heaviest gross weight production cargo airplane and second heaviest operating cargo aircraft, behind the one-off Antonov An-225 (a greatly enlarged design based on the An-124)."
+                android:text="@string/antonov124"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

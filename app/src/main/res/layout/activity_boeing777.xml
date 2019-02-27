@@ -56,7 +56,7 @@
                 android:id="@+id/tv_b777"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Boeing 777 is a long-range wide-body twin-engine jet airliner developed and manufactured by Boeing Commercial Airplanes.\nIt is the world's largest twinjet and has\na typical seating capacity of 314 to 396 passengers, with a range of\n5,240 to 8,555 nautical miles\n(9,704 to 15,844 km). "
+                android:text="@string/boeing777"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

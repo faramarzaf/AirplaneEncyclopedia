@@ -57,7 +57,7 @@
                 android:id="@+id/tv_b737_ng"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Boeing 737 Next Generation, commonly abbreviated as 737NG is the name given to the 600/-700/800/900 series of the Boeing 737 airliner.\nIt is the third generation derivative of the 737, and follows the 737 Classic (300/400/500) series, which began production in the 1980s.\nThey are short to medium-range,\nnarrow-body jet airliners powered by two engines.\nProduced since 1996 by Boeing Commercial Airplanes, the 737NG series includes four variants and can seat between 110 and 210 passengers."
+                android:text="@string/boeing737_ng"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

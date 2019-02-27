@@ -56,7 +56,7 @@
                 android:id="@+id/tv_b787"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Boeing 787 Dreamliner is an American long-haul, mid-size wide body,\ntwin-engine jet airliner made by Boeing Commercial Airplanes.\nIts variants seat 242 to 335 passengers in typical three-class seating configurations.\n\nIt is the first airliner with an airframe constructed primarily of composite materials.\nThe 787 was designed to be 20% more fuel-efficient than the Boeing 767, which it was intended to replace. "
+                android:text="@string/boeing787"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

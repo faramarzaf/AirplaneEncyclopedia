@@ -63,7 +63,7 @@
                 android:id="@+id/tv_an30"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-30\n(NATO reporting name: Clank), is a development of the An-24 designed for aerial cartography."
+                android:text="@string/antonov30"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

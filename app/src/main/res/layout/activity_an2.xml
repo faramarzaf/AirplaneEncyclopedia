@@ -63,7 +63,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Antonov An-2 is a Soviet\nmass-produced single-engine biplane utility/agricultural aircraft designed and manufactured by the Antonov Bureau beginning in 1946.\nThe An-2 was designed as a utility aircraft for use in forestry and agriculture.\nThe most common version is the An-2T\n12-seater passenger aircraft."
+                android:text="@string/antonov2"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

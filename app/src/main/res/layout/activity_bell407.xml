@@ -55,7 +55,7 @@
                 android:id="@+id/textView76"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Bell 407 is a four-blade,\nsingle-engine, civil utility helicopter;\na derivative of the Bell 206L-4 LongRanger.\nThe 407 uses the four-blade,\nsoft-in-plane design rotor with composite hub developed for the United States Army's OH-58D Kiowa Warrior instead of the two-blade, semi-rigid, teetering rotor of the 206L-4."
+                android:text="@string/bell407"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

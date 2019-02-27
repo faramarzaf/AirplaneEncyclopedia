@@ -63,7 +63,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Bell 206 is a family of two-bladed, single- and twin-engine helicopters, manufactured by Bell Helicopter at its Mirabel, Quebec plant.\nOriginally developed as the Bell YOH-4 for the United States Army's Light Observation Helicopter program, it was not selected by the Army.\n\nBell redesigned the airframe and successfully marketed the aircraft commercially as the five-place Bell 206A JetRanger.\nThe new design was eventually selected by the Army as the OH-58 Kiowa."
+                android:text="@string/bell206"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

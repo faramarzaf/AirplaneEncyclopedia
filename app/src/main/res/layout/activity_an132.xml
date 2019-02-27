@@ -56,7 +56,7 @@
                 android:id="@+id/tv_an132"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov/Taqnia An-132 is an improved version of the Antonov An-32 twin-engine turboprop military transport aircraft being developed jointly by Saudi Arabia and Ukraine"
+                android:text="@string/antonov132"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

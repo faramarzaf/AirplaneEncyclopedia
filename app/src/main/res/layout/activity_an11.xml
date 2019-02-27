@@ -46,7 +46,7 @@
                 android:id="@+id/tv_an11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov A-11 is a single-seat, high performance, all-metal sailplane built in the Soviet Union in the late 1950s.\n150 were produced."
+                android:text="@string/antonovA11"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

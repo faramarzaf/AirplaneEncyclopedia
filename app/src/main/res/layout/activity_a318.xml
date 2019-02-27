@@ -61,7 +61,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
-                android:text="The Airbus A318 is the smallest member of the Airbus A320 family of short- to medium-range, narrow-body, commercial passenger twin-engine jet airliners manufactured by Airbus.\n\nThe A318 carries up to 132 passengers and has a maximum range of 5,700 km.\n\nFinal assembly of the aircraft took place in Hamburg,Germany.\n\nThe A318 entered service in July 2003 with Frontier Airlines.\n"
+                android:text="@string/airbusA318"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

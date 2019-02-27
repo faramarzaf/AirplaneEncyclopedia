@@ -65,7 +65,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Antonov An-225 Mriya\n Ukrainian: Антонов Ан-225 Мрія, lit. 'dream' or 'inspiration',\nNATO reporting name: 'Cossack' is a strategic airlift cargo aircraft that was designed by the Antonov Design Bureau in the Ukrainian SSR within the Soviet Union during the 1980s."
+                android:text="@string/antonov225"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

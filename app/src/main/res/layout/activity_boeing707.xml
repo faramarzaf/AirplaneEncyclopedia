@@ -57,7 +57,7 @@
                 android:id="@+id/tv_b707"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Boeing 707 is a mid-sized, long-range, narrow-body, four-engine jet airliner built by Boeing Commercial Airplanes from 1958 to 1979.\nIts name is commonly pronounced as seven oh seven.\nVersions of the aircraft have a capacity from 140 to 219 passengers and a range of 2,500 to 5,750 nautical miles (2,880 to 6,620 mi; 4,630 to 10,650 km)."
+                android:text="@string/boeing707"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

@@ -53,7 +53,7 @@
                 android:background="@drawable/background_styles_general_text"
                 android:fontFamily="monospace"
                 android:gravity="center"
-                android:text="General explanation"
+                android:text="@string/general_explanation"
                 android:textColor="#ffffff"
                 android:textSize="15.2dp"
                 android:textStyle="italic" />
@@ -66,7 +66,7 @@
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
                 android:padding="5dp"
-                android:text="The Airbus A310 is a medium to\nlong-range twin-engined wide-body jet airliner that was developed and manufactured by Airbus, then a consortium of European aerospace manufacturers.\n\nIt was the second airliner to be produced by the company, the first being the A300.\n\nThe A310 is a smaller derivative of the A300, which held the distinction of being the first twin-engined widebody airliner.\n\nOn 7 July 1978, Airbus decided to launch the A300B10 programme, which it had\nre-designated as the A310.\n\nThe A310 has been used by the armed forces of the following countries ↓↓↓\n\n•Belgian Air Component\n•Royal Canadian Air Force\n•Egyptian Air Force\n•French Air Force\n•German Air Force\n•Royal Jordanian Air Force\n•Mongolian Air Force\n•Pakistan Air Force\n•Spanish Air Force\n•Royal Thai Air Force\n\nBy the end of production a total of 255 A310s had been ordered and delivered."
+                android:text="@string/airbusA310"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp" />

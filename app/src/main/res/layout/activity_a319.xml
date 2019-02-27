@@ -60,7 +60,7 @@
                 android:id="@+id/textView3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Airbus A319 is a member of the Airbus A320 family of\nshort- to medium-range, narrow-body, commercial passenger\ntwin-engine jet airliners manufactured by Airbus.\n\nThe A319 carries up to 160 passengers and has a maximum range of 6,900 km.\n\nFinal assembly of the aircraft takes place in Hamburg, Germany and Tianjin, China.\n\nAs of February 2018, a total of 1,469 Airbus A319 aircraft have been delivered, of which 1,448 are in service."
+                android:text="@string/airbusA319"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

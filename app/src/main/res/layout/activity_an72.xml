@@ -62,7 +62,7 @@
                 android:id="@+id/tv_an72"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-72\n(NATO reporting name: Coaler) is a\nSoviet/Ukrainian transport aircraft, developed by Antonov. It was designed\nas an STOL transport and intended as a replacement for the Antonov An-26, but variants have found success as commercial freighters."
+                android:text="@string/antonov72"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

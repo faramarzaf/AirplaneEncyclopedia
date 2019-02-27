@@ -59,7 +59,7 @@
                 android:id="@+id/textView88"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Bell UH-1 Iroquois\n(nicknamed Huey) is a utility military helicopter powered by a single turboshaft engine, with two-blade main and tail rotors.\n\nThe first member of the prolific Huey family, it was developed by Bell Helicopter to meet a United States Army's 1952 requirement for a evacuation and utility helicopter, and first flew in 1956.\n\nThe UH-1 was the first turbine-powered helicopter to enter production in 1960 for the United States military, and more than 16,000 have been built since.\n\nThe Iroquois was originally designated HU-1, hence the Huey nickname, which has remained in common use, despite the official redesignation to UH-1 in 1962.\nThe UH-1 first saw service in combat operations during the Vietnam War, with around 7,000 helicopters deployed.\n\nThe Bell 204 and 205 are Iroquois versions developed for the civil market."
+                android:text="@string/bellUH1"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

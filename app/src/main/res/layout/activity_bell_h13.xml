@@ -59,7 +59,7 @@
                 android:id="@+id/textView86"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Bell H-13 Sioux was a single-engine single-rotor light helicopter built by Bell Helicopter.\nWestland Aircraft manufactured the Sioux under license for the British military as the Sioux AH.1 and HT.2."
+                android:text="@string/bellH13"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

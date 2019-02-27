@@ -59,7 +59,7 @@
                 android:id="@+id/tv_an24"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-24\n-(Russian/Ukrainian: Антонов Ан-24)-\n-(NATO reporting name: Coke)-\nis a 44-seat twin turboprop\ntransport/passenger aircraft designed in 1957 in the Soviet Union by the Antonov Design Bureau and manufactured by Kiev, Irkutsk and\nUlan-Ude Aviation Factories."
+                android:text="@string/antonov24"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

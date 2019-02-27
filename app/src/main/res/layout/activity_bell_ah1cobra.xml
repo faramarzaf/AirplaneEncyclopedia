@@ -57,7 +57,7 @@
                 android:id="@+id/textView82"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Bell AH-1 Cobra is a two-blade, single-engine attack helicopter manufactured by Bell Helicopter.\n\nIt was developed using the engine, transmission and rotor system of the Bell UH-1 Iroquois.\nA member of the prolific Huey family, the AH-1 is also referred to as the HueyCobra or Snake.\n\nThe AH-1 was the backbone of the United States Army's attack helicopter fleet, but has been replaced by the AH-64 Apache in Army service.\n\nUpgraded versions continue to fly with the militaries of several other nations.\n\nThe AH-1 twin-engine versions remain in service with United States Marine Corps(USMC) as the service's primary attack helicopter.\nSurplus AH-1 helicopters have been converted for fighting forest fires."
+                android:text="@string/bellAH1Cobra"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

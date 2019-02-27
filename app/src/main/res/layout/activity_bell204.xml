@@ -57,7 +57,7 @@
                 android:id="@+id/textView69"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Bell 204 and 205 are the civilian versions of the UH-1 Iroquois\nsingle-engine military helicopter of the Huey family of helicopters.\n\nThey are type-certificated in the transport category and are used in a wide variety of applications, including crop dusting, cargo lifting and aerial firefighting."
+                android:text="@string/bell204"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

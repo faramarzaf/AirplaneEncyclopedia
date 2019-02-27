@@ -63,7 +63,7 @@
                 android:id="@+id/tv_an71"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Antonov An-71\n(NATO reporting name: Madcap) was a Soviet AWACS aircraft intended for use with VVS-FA (Fighter Bomber) forces of the Soviet Air Force, developed from the An-72 transport.\nOnly three prototypes were built before the program was cancelled."
+                android:text="@string/antonov71"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

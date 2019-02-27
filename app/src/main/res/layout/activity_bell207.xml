@@ -57,7 +57,7 @@
                 android:id="@+id/textView71"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Bell 207 Sioux Scout was\na modified Bell 47 helicopter, developed by Bell Helicopter under contract from the United States Army,\nas a proof-of-concept demonstrator for the Bell D-255 helicopter gunship\ndesign, featuring a tandem cockpit, stub wings, and a chin-mounted gun turret."
+                android:text="@string/bell207"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"

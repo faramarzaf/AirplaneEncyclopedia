@@ -56,7 +56,7 @@
                 android:id="@+id/tv_b720"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="The Boeing 720 is a four-engine\nnarrow-body short- to medium-range passenger jet airliner.\nDeveloped by Boeing in the late 1950s from the Boeing 707, the 720 has a shorter fuselage and a shorter range.\nThe 720 first flew in November 1959 and the model entered service with launch customer United Airlines in July 1960."
+                android:text="@string/boeing720"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
                 android:textSize="18dp"
