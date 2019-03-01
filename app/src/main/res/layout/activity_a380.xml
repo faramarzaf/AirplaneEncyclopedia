@@ -41,7 +41,7 @@
 
             <TextView
                 android:id="@+id/tv_generalExplanation"
-                android:layout_width="220dp"
+                android:layout_width="@dimen/width_txtView_general"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_margin="6dp"
@@ -51,7 +51,7 @@
                 android:gravity="center"
                 android:text="General explanation"
                 android:textColor="#ffffff"
-                android:textSize="15.2dp"
+                android:textSize="@dimen/textSize_txtView_general"
                 android:textStyle="italic" />
 
             <TextView

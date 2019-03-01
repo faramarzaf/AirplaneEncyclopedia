@@ -15,7 +15,7 @@
     <dimen name="dots_margin_bottom">20dp</dimen>
 
     <dimen name="width_txtView_general">220dp</dimen>
-    <dimen name="textSize_txtView_general">15.2sp</dimen>
+    <dimen name="textSize_txtView_general">15sp</dimen>
     <dimen name="padding_mainTxt">5dp</dimen>
     <dimen name="textSize_mainTxt">18sp</dimen>
 
