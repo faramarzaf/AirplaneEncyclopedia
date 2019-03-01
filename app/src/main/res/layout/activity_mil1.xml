@@ -55,7 +55,7 @@
                 android:gravity="center"
                 android:text="General explanation"
                 android:textColor="#ffffff"
-                android:textSize="15.2dp"
+                android:textSize="@dimen/textSize_txtView_general"
                 android:textStyle="italic" />
             <TextView
                 android:id="@+id/textView67"
