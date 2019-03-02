@@ -71,7 +71,7 @@
                 android:fontFamily="serif"
                 android:textIsSelectable="true"
                 android:background="@drawable/background_styles_text"
-                android:padding="5dp" />
+                android:padding="@dimen/padding_mainTxt" />
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"

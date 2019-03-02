@@ -67,7 +67,7 @@
                 android:textSize="18dp"
                 android:fontFamily="serif"
                 android:background="@drawable/background_styles_text"
-                android:padding="5dp"
+                android:padding="@dimen/padding_mainTxt"
 
                 />
             <LinearLayout

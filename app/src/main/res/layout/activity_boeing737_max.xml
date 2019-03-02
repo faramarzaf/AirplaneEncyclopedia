@@ -59,7 +59,7 @@
                 android:layout_margin="10dp"
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
-                android:padding="5dp"
+                android:padding="@dimen/padding_mainTxt"
                 android:text="@string/boeing737_max"
                 android:textColor="#000000"
                 android:textIsSelectable="true"

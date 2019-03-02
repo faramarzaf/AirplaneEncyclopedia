@@ -62,7 +62,7 @@
                 android:layout_margin="10dp"
                 android:background="@drawable/background_styles_text"
                 android:fontFamily="serif"
-                android:padding="5dp"
+                android:padding="@dimen/padding_mainTxt"
                 android:text="@string/bell206"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
