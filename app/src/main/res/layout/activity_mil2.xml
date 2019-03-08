@@ -63,7 +63,7 @@
                 android:text="@string/Mil2"
                 android:textColor="#000000"
                 android:textIsSelectable="true"
-                android:textSize="18dp"
+                android:textSize="@dimen/textSize_mainTxt"
                 android:background="@drawable/background_styles_text"
                 android:padding="@dimen/padding_mainTxt"
                 android:layout_margin="10dp"

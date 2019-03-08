@@ -57,7 +57,7 @@
                 android:layout_height="wrap_content"
                 android:text="@string/f35"
                 android:layout_margin="10dp"
-                android:textSize="18dp"
+                android:textSize="@dimen/textSize_mainTxt"
                 android:textColor="#000000"
                 android:fontFamily="serif"
                 android:textIsSelectable="true"
