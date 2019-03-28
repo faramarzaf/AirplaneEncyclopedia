@@ -4,29 +4,21 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.google.testairplaneencyclopedia.CivilAirplanesActivity"
     android:background="@drawable/civilairplanebackground"
-    >
-
-
-
-
+    tools:context="com.google.testairplaneencyclopedia.CivilAirplanesActivity">
 
 
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
-        >
+        android:layout_centerVertical="true">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical"
             android:layout_gravity="center"
-            >
-
+            android:orientation="vertical">
 
 
             <Button
@@ -34,29 +26,28 @@
                 style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
                 android:layout_width="90dp"
                 android:layout_height="45dp"
+                android:layout_gravity="center"
+
                 android:layout_marginTop="10dp"
-                android:background="@drawable/style_button_types"
                 android:fontFamily="sans-serif-condensed"
                 android:text="Airbus"
                 android:textColor="#000000"
-                android:textSize="17dp"
-                android:layout_gravity="center"
-                />
+                android:textSize="17dp" />
+
             <Button
                 android:id="@+id/btn_antonov"
                 style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
                 android:layout_width="90dp"
                 android:layout_height="45dp"
+                android:layout_gravity="center"
+
                 android:layout_marginTop="10dp"
-                android:background="@drawable/style_button_types"
                 android:fontFamily="sans-serif-condensed"
                 android:text="Antonov"
                 android:textColor="#000000"
                 android:textSize="17dp"
-                android:layout_gravity="center"
 
                 />
-
 
 
             <Button
@@ -64,13 +55,13 @@
                 style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
                 android:layout_width="90dp"
                 android:layout_height="45dp"
+                android:layout_gravity="center"
+
                 android:layout_marginTop="10dp"
-                android:background="@drawable/style_button_types"
                 android:fontFamily="sans-serif-condensed"
                 android:text="Boeing"
                 android:textColor="#000000"
                 android:textSize="17dp"
-                android:layout_gravity="center"
 
                 />
 
@@ -80,27 +71,26 @@
                 style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
                 android:layout_width="90dp"
                 android:layout_height="45dp"
+                android:layout_gravity="center"
+
                 android:layout_marginTop="10dp"
-                android:background="@drawable/style_button_types"
                 android:fontFamily="sans-serif-condensed"
                 android:text="Fokker"
                 android:textColor="#000000"
-                android:textSize="17dp"
-                android:layout_gravity="center"
-                />
+                android:textSize="17dp" />
 
             <Button
                 android:id="@+id/btn_ilyushin"
                 style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
                 android:layout_width="90dp"
                 android:layout_height="45dp"
+                android:layout_gravity="center"
+
                 android:layout_marginTop="10dp"
-                android:background="@drawable/style_button_types"
                 android:fontFamily="sans-serif-condensed"
                 android:text="Ilyushin"
                 android:textColor="#000000"
                 android:textSize="17dp"
-                android:layout_gravity="center"
 
                 />
 
@@ -110,16 +100,15 @@
                 style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
                 android:layout_width="90dp"
                 android:layout_height="45dp"
+                android:layout_gravity="center"
+
                 android:layout_marginTop="10dp"
-                android:background="@drawable/style_button_types"
                 android:fontFamily="sans-serif-condensed"
                 android:text="Tupolev"
                 android:textColor="#000000"
                 android:textSize="17dp"
-                android:layout_gravity="center"
 
                 />
-
 
 
         </LinearLayout>
