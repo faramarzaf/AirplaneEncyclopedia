@@ -4,18 +4,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background_styles4"
-    tools:context="com.google.testairplaneencyclopedia.CarriageAirplanesActivity">
+    tools:context="com.google.testairplaneencyclopedia.CarriageAirplanesActivity"
+    android:background="#2ecaf1ef"
+    >
 
 
     <ImageView
         android:id="@+id/carriageairplanebackground"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_centerInParent="true"
-        android:scaleType="centerCrop"
+        android:scaleType="centerInside"
         app:srcCompat="@drawable/carriageairplanebackground"
-
+        android:layout_marginBottom="12dp"
         />
 
     <ScrollView
