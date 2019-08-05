@@ -36,7 +36,7 @@
                 <Button
                     android:id="@+id/btn_bell"
                     style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
-                    android:layout_width="90dp"
+                    android:layout_width="91dp"
                     android:layout_height="45dp"
                     android:layout_marginTop="10dp"
                     android:fontFamily="sans-serif-condensed"
@@ -50,7 +50,7 @@
                 <Button
                     android:id="@+id/btn_mil"
                     style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
-                    android:layout_width="90dp"
+                    android:layout_width="91dp"
                     android:layout_height="45dp"
                     android:layout_marginTop="10dp"
                     android:fontFamily="sans-serif-condensed"
@@ -64,7 +64,7 @@
                 <Button
                     android:id="@+id/btn_kamov"
                     style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
-                    android:layout_width="90dp"
+                    android:layout_width="91dp"
                     android:layout_height="45dp"
                     android:layout_marginTop="10dp"
                     android:fontFamily="sans-serif-condensed"
@@ -79,7 +79,7 @@
                 <Button
                     android:id="@+id/btn_eurocopter"
                     style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
-                    android:layout_width="90dp"
+                    android:layout_width="91dp"
                     android:layout_height="45dp"
                     android:layout_marginTop="10dp"
                     android:fontFamily="sans-serif-condensed"
