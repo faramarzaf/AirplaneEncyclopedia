@@ -4,7 +4,7 @@
     android:id="@+id/activity_intro_slider"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.google.testairplaneencyclopedia.IntroSliderActivity">
+    tools:context="com.google.testairplaneencyclopedia.others.IntroSliderActivity">
 
 
     <android.support.v4.view.ViewPager

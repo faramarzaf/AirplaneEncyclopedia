@@ -10,7 +10,7 @@ android {
         versionCode 102
         versionName "1.0.2"
 
-        setProperty("archivesBaseName","AircraftsEncyclopedia${versionName}")
+        setProperty("archivesBaseName", "AircraftsEncyclopedia${versionName}")
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
@@ -26,9 +26,6 @@ android {
         }
     }
 }
-
-
-
 
 
 dependencies {

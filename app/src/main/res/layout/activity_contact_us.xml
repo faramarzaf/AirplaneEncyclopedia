@@ -7,7 +7,7 @@
     android:background="@drawable/help_contact_us_bg"
     android:orientation="vertical"
     android:padding="11dp"
-    tools:context="com.google.testairplaneencyclopedia.ContactUsActivity">
+    tools:context="com.google.testairplaneencyclopedia.others.ContactUsActivity">
 
     <ScrollView
         android:layout_width="match_parent"

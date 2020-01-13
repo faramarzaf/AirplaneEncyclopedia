@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/second_layout"
     android:orientation="horizontal"
-    tools:context="com.google.testairplaneencyclopedia.SecondActivity">
+    tools:context="com.google.testairplaneencyclopedia.categories.SecondActivity">
 
 
     <ScrollView

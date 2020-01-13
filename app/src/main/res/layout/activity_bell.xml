@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.google.testairplaneencyclopedia.BellActivity"
+    tools:context="com.google.testairplaneencyclopedia.helicopters.BellActivity"
 
 
     >
@@ -366,6 +366,19 @@
                 android:layout_gravity="center"
                 />
 
+            <Button
+                android:id="@+id/bell_ah_1z_Viper"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AH-1Z Viper"
+                android:layout_marginTop="10dp"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:background="#00ffffff"
+                style="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_gravity="center"
+                />
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>

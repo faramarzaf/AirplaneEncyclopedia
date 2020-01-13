@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/civilairplanebackground"
-    tools:context="com.google.testairplaneencyclopedia.CivilAirplanesActivity">
+    tools:context="com.google.testairplaneencyclopedia.civil.CivilAirplanesActivity">
 
 
     <ScrollView

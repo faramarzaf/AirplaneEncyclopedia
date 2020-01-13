@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.google.testairplaneencyclopedia.F18Activity"
+    tools:context="com.google.testairplaneencyclopedia.fighter_jets.F18Activity"
     android:background="@drawable/background_content"
     >
 
