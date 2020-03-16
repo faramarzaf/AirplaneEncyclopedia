@@ -11,6 +11,13 @@ This off-line aviation cyclopedia is available at any time and would help you to
 # Change log
 ***All notable changes to this project will be documented.***  
 
+- **v1.0.3** March 16, 2020
+    - New fighter jets added: 
+      - Typhoon
+      - Jaguar
+      - Mirage2000
+      - Rafale 
+    
 - **v1.0.2** Aug 5, 2019
     - App performance is increased now.
     - Some issues are fixed.
